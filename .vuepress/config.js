@@ -67,10 +67,6 @@ export default defineUserConfig({
             link: '/Resources.html',
           },
           {
-            text: 'Presets',
-            link: '/Presets.html',
-          },
-          {
             text: 'Install',
             link: '/Install.html',
           },
@@ -81,6 +77,7 @@ export default defineUserConfig({
         ],
         sidebar: {
           '/options/Addons/Experimental/': [
+            { text: 'Back to Addons', link: '/options/Settings/Addons.html' },
             { text: 'Glow', link: '/options/Addons/Experimental/Glow.html' },
             { text: 'Swift', link: '/options/Addons/Impostor/Swift.html' }
           ],
@@ -158,6 +155,7 @@ export default defineUserConfig({
             { text: 'Susceptible', link: '/options/Addons/Mixed/Susceptible.html' },
           ],
           '/options/Addons/Other/': [
+            { text: 'Back to Addons', link: '/options/Settings/Addons.html' },
             { text: 'Double Shot', link: '/options/Addons/Other/DoubleShot.html' },
             { text: 'Onbound', link: '/options/Addons/Other/Onbound.html' },
             { text: 'Rebound', link: '/options/Addons/Other/Rebound.html' }
@@ -426,7 +424,6 @@ export default defineUserConfig({
           ],
           '/options/Neutrals/Experimental/': [
             { text: 'Back to Neutrals', link: '/options/Settings/Neutrals.html' },
-            { text: 'Doppelganger', link: '/options/Neutrals/Experimental/Doppelganger.html' },
             { text: 'Imitator', link: '/options/Neutrals/Experimental/Imitator.html' },
             { text: 'Quizmaster', link: '/options/Neutrals/Experimental/Quizmaster.html' },
           ],
@@ -437,6 +434,7 @@ export default defineUserConfig({
             { text: 'Bandit', link: '/options/Neutrals/Killing/Bandit.html' },
             { text: 'Blood Knight', link: '/options/Neutrals/Killing/BloodKnight.html' },
             { text: 'Demon', link: '/options/Neutrals/Killing/Demon.html' },
+            { text: 'Doppelganger', link: '/options/Neutrals/Killing/Doppelganger.html' },
             { text: 'Glitch', link: '/options/Neutrals/Killing/Glitch.html' },
             { text: 'Hex Master', link: '/options/Neutrals/Killing/HexMaster.html' },
             { text: 'Huntsman', link: '/options/Neutrals/Killing/Huntsman.html' },
