@@ -4,7 +4,7 @@ title: Madmate
 prev: LastImpostor
 next: Mare
 ---
-# <font color=red>ðŸ¤¡ <b>Madmate</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color=red><b>Madmate</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
 
 Only Crewmates can become Madmate. Madmate's task is to help the Impostors win the game. Madmate will lose if all Impostors are killed/ejected. Madmates may know who are Impostors, and Impostors may know who are Madmates (Host settings).<br>
 Lazy Guy, Celebrity can't become Madmate. Sheriff, Snitch, Nice Guesser, Mayor, and Judge may become Madmate (Host settings). Skill changes when the following roles are converted into Madmates:<br>

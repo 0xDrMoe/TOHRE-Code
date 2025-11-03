@@ -5,7 +5,7 @@ prev: SerialKiller
 next: Spiritcaller
 ---
 
-# <font color="#6697ff">ðŸ‘» <b>Shroud</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#6697ff"><b>Shroud</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
  
 As the Shroud, you do not kill normally.
 Instead, use your Kill button to shroud a player.<br>

@@ -5,7 +5,7 @@ prev: Huntsman
 next: Jackal
 ---
 
-# <font color="#7b8968">ðŸ¦  <b>Infectious</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#7b8968"><b>Infectious</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
  
 As the Infectious, your job is to infect as many players as you can.<br>
 If you infect all the killers, you can outnumber the Crew and win the game.<br>

@@ -5,7 +5,7 @@ prev: SoulCollector
 next: Berserker
 ---
 
-# <font color=#8c7458>ðŸž <b>Baker</b></font> <Badge text="Apocalypse" type="tip" vertical="middle"/>
+# <font color=#8c7458><b>Baker</b></font> <Badge text="Apocalypse" type="tip" vertical="middle"/>
 
 As the Baker, you can use your Kill Button on a player per round to give them bread. Depending on settings, if a player with Bread dies, then you can give bread again in that same round.<br>
 Once a set amount of players are alive with bread, you become Famine.<br>

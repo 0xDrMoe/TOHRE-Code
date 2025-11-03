@@ -4,7 +4,7 @@ title: Reverie
 prev: Retributionist
 next: Sheriff
 ---
-# <font color="#00bfff">ðŸŒŒ <b>Reverie</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#00bfff"><b>Reverie</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
  
 As the Reverie, you can kill, but your Cooldown starts high.<br>
 It increases if you kill a Crewmate and reduces otherwise.<br>

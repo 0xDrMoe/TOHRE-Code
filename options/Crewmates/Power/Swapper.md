@@ -4,7 +4,7 @@ title: Swapper
 prev: President
 next: Telecommunication
 ---
-# <font color=#66e666>ðŸ”€ <b>Swapper</b></font> <Badge text="Power" type="tip" vertical="middle"/>
+# <font color=#66e666><b>Swapper</b></font> <Badge text="Power" type="tip" vertical="middle"/>
 
 As the Swapper, you can swap votes in meetings.<br>
 To swap votes, use '/sw [playerID]' twice.<br>

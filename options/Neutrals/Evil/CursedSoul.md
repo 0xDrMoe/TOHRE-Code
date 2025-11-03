@@ -5,7 +5,7 @@ prev: Arsonist
 next: Doomsayer
 ---
 
-# <font color="#531269">ðŸ‘¿ <b>Cursed Soul</b></font> <Badge text="Evil" type="tip" vertical="middle"/>
+# <font color="#531269"><b>Cursed Soul</b></font> <Badge text="Evil" type="tip" vertical="middle"/>
 
 As the Cursed Soul, you steal the victory if you survive to the end of the game.<br>
 You can steal the win from a Jester or Executioner.<br>

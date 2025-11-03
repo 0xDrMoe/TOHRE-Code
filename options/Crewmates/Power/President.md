@@ -4,7 +4,7 @@ title: President
 prev: Overseer
 next: Swapper
 ---
-# <font color="#01ffaa">ðŸ›ï¸ <b>President</b></font> <Badge text="Power" type="tip" vertical="middle"/>
+# <font color="#01ffaa"><b>President</b></font> <Badge text="Power" type="tip" vertical="middle"/>
 
 The President has two abilities: End the meeting and Reveal identity.<br>
 + Ability 1: End the meeting - Type /finish in meetings as President to instantly end the meeting.<br>

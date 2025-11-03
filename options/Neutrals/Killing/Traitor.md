@@ -5,7 +5,7 @@ prev: Stalker
 next: Virus
 ---
 
-# <font color="#ba2e05">ðŸ‘º <b>Traitor</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#ba2e05"><b>Traitor</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 As the Traitor, you were an Impostor that betrayed the Impostors.<br>
 You know the Impostors, but they don't know you.<br>

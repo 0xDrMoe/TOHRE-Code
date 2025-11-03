@@ -4,7 +4,7 @@ title: MoonDancer
 prev: Medusa
 next: Necromancer
 ---
-# <font color="#8a68f5">ðŸŒ  <b>Moon Dancer</b></font> <Badge text="Utility" type="tip" vertical="middle"/>
+# <font color="#8a68f5"><b>Moon Dancer</b></font> <Badge text="Utility" type="tip" vertical="middle"/>
 
 The Moon Dancer can use their Kill button to use their ability, Baton Pass.<br>
 If used on a Coven member: Gives a Helpful Add-on at the next meeting.<br>

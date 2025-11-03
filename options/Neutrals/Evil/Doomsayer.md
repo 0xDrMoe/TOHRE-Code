@@ -5,7 +5,7 @@ prev: CursedSoul
 next: Executioner
 ---
 
-# <font color="#14f786">ðŸ˜ˆ <b>Doomsayer</b></font> <Badge text="Evil" type="tip" vertical="middle"/>
+# <font color="#14f786"><b>Doomsayer</b></font> <Badge text="Evil" type="tip" vertical="middle"/>
 
 The Doomsayer can guess the role of a certain player during the meeting.<br>
 If the Doomsayer guesses a certain number of roles (the number depends on the Host settings), then he wins.<br>

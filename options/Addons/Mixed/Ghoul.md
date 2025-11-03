@@ -4,7 +4,7 @@ title: Ghoul
 prev: Diseased
 next: Gravestone
 ---
-# <font color=#B22222>ðŸ‘» <b>Ghoul</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
+# <font color=#B22222><b>Ghoul</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
 
 As the Ghoul, one of two outcomes can occur on task completion.<br>
 If alive: Suicide<br>

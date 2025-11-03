@@ -4,7 +4,7 @@ title: Copycat
 prev: ChiefOfPolice
 next: Dictator
 ---
-# <font color="#ffb2ab">ðŸ“ <b>Copycat</b></font> <Badge text="Power" type="tip" vertical="middle"/>
+# <font color="#ffb2ab"><b>Copycat</b></font> <Badge text="Power" type="tip" vertical="middle"/>
  
 As the Copycat, you can use your Kill button to copy the target's role.<br>
 You can only copy some Crewmate roles.<br>

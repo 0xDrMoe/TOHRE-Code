@@ -5,7 +5,7 @@ prev: Plaguebearer
 next: Baker
 ---
 
-# <font color=#a475a4>ðŸ‘» <b>Soul Collector</b></font> <Badge text="Apocalypse" type="tip" vertical="middle"/>
+# <font color=#a475a4><b>Soul Collector</b></font> <Badge text="Apocalypse" type="tip" vertical="middle"/>
 
 As Soul Collector, you can use your Kill button on a player to predict their death. You will gain a Soul if your target dies in the round you select them or the meeting after.<br>
 Your target resets after each meeting or after they die, whichever comes first. <br>

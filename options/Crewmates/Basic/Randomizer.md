@@ -4,7 +4,7 @@ title: Randomizer
 prev: Mole
 next: SuperStar
 ---
-# <font color="#ffa500">ðŸŽ² <b>Randomizer</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
+# <font color="#ffa500"><b>Randomizer</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
 
 As this Randomizer, when you die, your killer will do one of the following:<br>
 1. self-report your body<br>

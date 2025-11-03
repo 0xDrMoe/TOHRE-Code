@@ -4,7 +4,7 @@ title: Necromancer
 prev: MoonDancer
 next: PotionMaster
 ---
-# <font color="#8a68f5">âš°ï¸ <b>Necromancer</b></font> <Badge text="Utility" type="tip" vertical="middle"/>
+# <font color="#8a68f5"><b>Necromancer</b></font> <Badge text="Utility" type="tip" vertical="middle"/>
 
  
 As the Necromancer, you can Shapeshift to become the role of a random dead person for a set duration.<br>

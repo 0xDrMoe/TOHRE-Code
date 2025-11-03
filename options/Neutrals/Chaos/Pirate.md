@@ -5,8 +5,7 @@ prev: God
 next: Revolutionist
 ---
 
-# <font color="#edc240">ðŸ´â€â˜ ï¸ <b>Pirate</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
----
+# <font color="#edc240"><b>Pirate</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
 
 As the Pirate, use your Kill button to select a target every round.<br>
 You will duel with your target in the next meeting. <br>

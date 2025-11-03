@@ -4,7 +4,7 @@ title: Conjurer
 prev: Jinx
 next: HexMaster
 ---
-# <font color="#8a68f5">ðŸª¨ <b>Conjurer</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#8a68f5"><b>Conjurer</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 Shapeshift once to mark a location.
 Shapeshift again to conjure a meteor at the place you marked, killing everyone in the radius.<br>

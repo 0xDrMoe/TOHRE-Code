@@ -4,7 +4,7 @@ title: Bloodthirst
 prev: Aware
 next: Diseased
 ---
-# <font color=#691a2e>ðŸ©¸ <b>Bloodthirst</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
+# <font color=#691a2e><b>Bloodthirst</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
 
 As the Bloodthirst, doing tasks allows you to become bloodthirsty and kill players.<br>
 When you finish a task, the next player you come in contact with dies.<br>

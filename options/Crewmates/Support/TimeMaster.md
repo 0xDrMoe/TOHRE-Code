@@ -4,7 +4,7 @@ title: TimeMaster
 prev: TimeManager
 next: Ventguard
 ---
-# <font color="#44baff">â³ <b>Time Master</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="#44baff"><b>Time Master</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 As the Time Master, use the Vents to mark everyone's position.<br>
 When using the ability again, every alive player will rewind to the marked positions.<br>

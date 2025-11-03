@@ -4,7 +4,7 @@ title: Sacrifist
 prev: PotionMaster
 next: VoodooMaster
 ---
-# <font color="#8a68f5">ðŸ˜µ <b>Sacrifist</b></font> <Badge text="Utility" type="tip" vertical="middle"/>
+# <font color="#8a68f5"><b>Sacrifist</b></font> <Badge text="Utility" type="tip" vertical="middle"/>
 
 The Sacrifist can Shapeshift to cause a random debuff to a non-Coven member, however, the Sacrifist will also receive this effect (when applicable).<br>
 The random player will be the same player until the round ends.<br>

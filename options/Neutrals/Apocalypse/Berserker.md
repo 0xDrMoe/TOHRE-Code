@@ -5,7 +5,7 @@ prev: Baker
 next: Plaguebearer
 ---
 
-# <font color=#cc0044>ðŸª“ <b>Berserker</b></font> <Badge text="Apocalypse" type="tip" vertical="middle"/>
+# <font color=#cc0044><b>Berserker</b></font> <Badge text="Apocalypse" type="tip" vertical="middle"/>
 
 As the Berserker, you level up with each kill.<br>
 Upon reaching a certain level defined by the Host, you unlock a new power.<br>

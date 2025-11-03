@@ -4,7 +4,7 @@ title: Monarch
 prev: Mayor
 next: Overseer
 ---
-# <font color="#ffa500">ðŸ‘‘ <b>Monarch</b></font> <Badge text="Power" type="tip" vertical="middle"/>
+# <font color="#ffa500"><b>Monarch</b></font> <Badge text="Power" type="tip" vertical="middle"/>
 
 As the Monarch, you can knight players to give them an extra vote.<br>
 You cannot knight someone who already has multiple votes.<br>

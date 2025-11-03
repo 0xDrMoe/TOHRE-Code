@@ -4,7 +4,7 @@ title: DoubleAgent
 prev: Consigliere
 next: Fireworker
 ---
-# <font color="red">ðŸ‘“ <b>Double Agent</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="red"><b>Double Agent</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 As the Double Agent, you cannot access the Kill button. However, you can vote for someone in a meeting to pass a bomb onto them, which can only be done one player at a time. Once the meeting has finished, the bomb will activate and explode in a set amount of time.<br>
 Note: when you pass the bomb onto someone in a meeting, you can vote afterward.<br>

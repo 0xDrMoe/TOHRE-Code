@@ -46,17 +46,22 @@ contributors: false
 
 </details>
 <br>
-<details>
-<summary><b><font color=#5ea692>Site Changelogs/Updates</font></b></summary>
+<b><font color=#5ea692>Site Changelogs/Updates</font></b>
 
 * By [**Pyro**](www.youtube.com/@NotPyro404)<br>
+\+ <font color=green><b>NEW</b></font>: Updated to v2.4.0!<br>
+\+ <font color=green><b>NEW</b></font>: Completely reworked Faction Sidebars + Pages!<br>
 \+ <font color=green><b>NEW</b></font>: [Guide to TOHE!](/Guide.html)<br>
 \+ <font color=green><b>NEW</b></font>: Installation (FAQ) + Customization (Resources) are now covered in the brand new Guide to TOHE!<br>
 \+ <font color=green><b>NEW</b></font>: [Presets](/usc/Presets.html) and [Translations](/usc/Translations.html) have moved from Resources to their own [User Submitted Content](/USC.html) category (USC)<br>
 \+ <font color=green><b>NEW</b></font>: [Troubleshooting](/Troubleshooting.html) Page (Separated from FAQ)<br>
-\+ <font color=green><b>NEW</b></font>: Overhauled [Mod Settings](/options/Settings/Mod.html) (Gamemodes are now dropdown menus + their settings, rather than a big text mess.)<br>
-\+ <font color=green><b>NEW</b></font>: Secondary Roles/Hidden Roles are now under Secondary folders. Secondary is for roles that only appear if one role is enabled. (You can't see Famine without Baker, or Evil Mini without Mini) Hidden Roles technically fall under that ruling. (You can't see Bard without Arrogance, or Requiter without Knight)<br>
+\+ <font color=green><b>NEW</b></font>: Overhauled [Mod Settings](/options/Settings/Mod.html) (Gamemodes are now dropdown menus + their settings, rather than a big text mess.) as well as the Sidebars for Game, Mod, and System Settings (Sidebars were all changed in a way that made sense to me.)<br>
+\+ <font color=green><b>NEW</b></font>: Proper incomplete-translation landing pages.<br>
+\+ <font color=green><b>NEW</b></font>: New missing page pop-up text options! (This was mainly for fun!)<br>
+\+ <font color=green><b>NEW</b></font>: Betrayal Addons are now listed! (This also includes General Addons such as Cleansed, Knighted, and Soulless)<br>
+\+ <font color=green><b>NEW</b></font>: Transformation Roles + Hidden Roles are finally all listed under their own Factions respective Secondary folders.<br>
+\+ <font color=green><b>NEW</b></font>: (AFTER A LONG WAIT) Comments/Forums! If i eventually figure that out dont forget to delete this if i dont<br>
+\+ <font color=green><b>NEW</b></font>: All Roles now display their basis role (ie: Sheriff clarifies that Impostor is their Role Base) (refer above for this too)<br>
 \+ <font color=green><b>NEW</b></font>: SO MUCH MORE that I can't remember because it's like 2 in the morning!<br>
-= <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, or you simply have feedback, open a forum in `#website-feedback`! Thank you!<br>
-</details>
+= <font color=#ece218><b>Heart to Heart</b></font>: Thank you to The Enhanced Network, Town of Host: Enhanced, and all of the members for the past 2 years! I started helping out when I was 15, and it was the most fun 2 years ever! I've learned so much about coding, responsibilities, even myself. This is very likely one of the, if not the, last updates I will make to the website, as unfortunately my love towards Among Us in general has died down a ton the past 7-8 months, which in turn, made my love towards TOHE, and mods in general, die down too. Seeing as this is likely my last site update, I've tried to get everything up-to-date, and simpler to use. (Maybe you liked the way the old site was laid out, use some like wayback machine or something, lol.) With this came a LOT of changes. I also tried to implement as MUCH of the website feedback (#website-feedback) as I possibly could with my abilites, so if something you wanted didn't make it, maybe a future site maintainer could get to it.<br>
 </font>

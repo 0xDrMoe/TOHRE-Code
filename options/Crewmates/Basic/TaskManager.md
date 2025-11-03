@@ -4,7 +4,7 @@ title: TaskManager
 prev: SuperStar
 next: Tracefinder
 ---
-# <font color="#01ffa5">ðŸ“ <b>Task Manager</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
+# <font color="#01ffa5"><b>Task Manager</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
 
 As the Task Manager your objective is to help the crew finish tasks as fast as possible.<br>
 Everytime you complete a task one random crewmate will have one of their tasks completed.<br>

@@ -4,7 +4,7 @@ title: Guesser
 prev: DoubleShot
 next: Onbound
 ---
-# <font color=#f8cd46>â” <b>Guesser</b></font> <Badge text="Guesser" type="tip" vertical="middle"/>
+# <font color=#f8cd46><b>Guesser</b></font> <Badge text="Guesser" type="tip" vertical="middle"/>
  
 As a Guesser, guess the roles of players in meetings to kill them.<br>
 Guessing the incorrect role kills you instead.<br>

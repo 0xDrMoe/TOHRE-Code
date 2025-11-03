@@ -4,7 +4,7 @@ title: NiceGuesser
 prev: Knight
 next: Retributionist
 ---
-# <font color="#eede26">ðŸ‘‘ <b>Nice Guesser</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#eede26"><b>Nice Guesser</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 The Nice Guesser can guess the role of a certain player during the meeting. If it is correct, it will kill the target, and if it is wrong, Nice Guesser will suicide.<br>
 The guessing command is: /bt [player id] [role]<br>

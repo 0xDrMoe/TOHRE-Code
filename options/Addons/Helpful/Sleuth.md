@@ -4,7 +4,7 @@ title: Sleuth
 prev: Silent
 next: Spurt
 ---
-# <font color="#843434">ðŸ•µï¸ <b>Sleuth</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
+# <font color="#843434"><b>Sleuth</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
 
 As the Sleuth, you gain info from dead bodies.<br>
 Optionally, you may also gain the killer's role.<br>

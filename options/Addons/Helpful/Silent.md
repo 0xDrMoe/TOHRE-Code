@@ -4,7 +4,7 @@ title: Silent
 prev: Seer
 next: Sleuth
 ---
-# <font color="#9aa6cb">ðŸ˜¶ <b>Silent</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
+# <font color="#9aa6cb"><b>Silent</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
 
 
 As the Silent, your vote icon won't appear on the result screen.<br>
