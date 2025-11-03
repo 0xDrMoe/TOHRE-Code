@@ -1,7 +1,7 @@
 # Servers Installation
 
-Do you want to play on Modded Servers but your device doesn't have any on it? You're in the right place. Follow the instructions below to install Modded Servers.<br>
-<b>Why do I need modded servers?</b>
+Do you want to play on Modded Servers but your device doesn't have any on it? You're in the right place. Follow the instructions below to install Modded Servers.<br><br>
+<b>Why do I need modded servers?</b><br>
 Modded Servers are required for some aspects of TOHE, mainly to join lobbies using the Crowded functionality, but also generally have less limits from Innersloths Anti-Cheat than Regular Servers.
 
 ## On Windows:

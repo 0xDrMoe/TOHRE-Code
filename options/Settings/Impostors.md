@@ -1,158 +1,51 @@
----
+﻿---
 lang: en-US
 title: Impostors
 prev: /Roles.html
 next: /Roles.html
 ---
 
-# <font color=red>🦹‍♂️ <b>Impostor Roles</b></font>
----
+# <font color=red><b>Impostor Roles</b></font>
 
-<b>Eliminate all <font color=#8cffff>Crewmates</font> and <font color=#7f8c8d>Neutrals</font> from the game by any means necessary. Each role has a unique way of accomplishing their goal. From mass-killing to framing others, they have to find any means necessary to win.</b><br>
+### Use the Sidebar to navigate roles!
 
-<table>
-<tr>
-<td colspan="2" align="center"><b><u>Role Count</u></b></td>
-</tr>
+Impostors must take out the crewmates, as well as their competition, to win the game.<br>
+<b>Total Role Count: 79</b>
 
-<tr>
-<td><a href="#concealing" style="color:#3b0722"><b>👣 Concealing</b></a></td>
-<td align="center">15</td>
-</tr>
+## <font color=#3b0722><b>Concealing</b></font>
+Concealing Impostor Roles are roles that have the main ability of killing relatively secretly These roles hide in the shadows, covering their tracks.<br>
+<b>Role Count: 14</b>
 
-<tr>
-<td><a href="#experimental" style="color:#4d2b22"><b>🚧 Experimental</b></a></td>
-<td align="center">2</td>
-</tr>
+## <font color=#4d2b22><b>Experimental</b></font>
+Experimental Impostor Roles are roles that need to be tested! These roles can be overpowered, underpowered, or game-breaking.<br>
+<b>Role Count: 2</b>
 
-<tr>
-<td><a href="#ghost" style="color:#bd8b88"><b>👻 Ghost</b></a></td>
-<td align="center">3</td>
-</tr>
+## <font color=#bd8b88><b>Ghost</b></font>
+Ghost Impostor Roles are roles that are assigned to an impostor after death. These roles can hinder Crewmates, or allow impostors to kill from the afterlife.<br>
+<b>Role Count: 3</b>
 
-<tr>
-<td><a href="#hindering" style="color:#636363"><b>⛓️ Hindering</b></a></td>
-<td align="center">9</td>
-</tr>
+## <font color=#636363><b>Hindering</b></font>
+Hindering Impostor Roles are roles that hinder the crewmates from winning. These roles can freeze, frame, or mix-up players.<br>
+<b>Role Count: 9</b>
 
-<tr>
-<td><a href="#killing" style="color:#6a0000"><b>🔪 Killing</b></a></td>
-<td align="center">28</td>
-</tr>
+## <font color=#6a0000><b>Killing</b></font>
+Killing Impostor Roles are roles that mainly have abilities revolving around killing. All impostors do kill, but these ones specialize in killing. Some could be considered Basic Impostor Roles, but we don't have a Basic Impostor category.<br>
+<b>Role Count: 28</b>
 
-<tr>
-<td><a href="#madmate" style="color:red"><b>😡 Madmate</b></a></td>
-<td align="center">3</td>
-</tr>
+## <font color=red><b>Madmate</b></font>
+Madmate Impostor Roles are roles that are Impostors, but counted as a different Faction. These roles usually use Crewmate Role Bases, such as Crewpostor, or are the result of another role becoming an Impostor, such as Refugee.<br>
+<b>Role Count: 3</b>
 
-<tr>
-<td><a href="#support" style="color:#00ffff"><b>🏥 Support</b></a> </td>
-<td align="center">15</td>
-</tr>
+## <font color=#00ffff><b>Support</b></font>
+Support Impostor Roles are roles that directly support the impostors. Roles in this category usually consist of abilities that can recruit players to the impostors team, or have miscellaneous abilities that aren't quiet powerful/unique enough to fit in other categories.<br>
+<b>Role Count: 15</b>
 
-<tr>
-<td><a href="#vanilla" style="color:#8cffff"><b>🍦 Vanilla</b></a> </td>
-<td align="center">3</td>
-</tr>
+## <font color=#8cffff><b>Vanilla</b></font>
+Vanilla Impostor Roles are roles from the base game of Among Us ported to be usable in Town of Host: Enhanced.<br>
+<b>Role Count: 4</b>
 
-<tr>
-<td><a href="#secondary" style="color:#7f8c8d"><b>2️⃣ Secondary</b></a> </td>
-<td align="center">1</td>
-</tr>
+## <font color=#7f8c8d><b>Secondary</b></font>
+Secondary Impostor Roles are roles that require another role to be activated/used to appear. Such as a Secret role, (Bard is a Secret role of Arrogance) or a transformation of sorts (Technically Evil Mini, but as Mini is a Crewmate role by default, it's listed there rather than here.)<br>
+<b>Role Count: 1</b>
 
-<tr>
-<td><font color=red><b>📊 Total:</b></font></td>
-<td align="center"><b>79</b></td>
-</tr>
-
-</table>
-<br>
-
-### <font color=#3b0722><b>Concealing</b></font>
----
-[Abyssbringer](/options/Impostors/Concealing/Abyssbringer.html) | [Escapist](/options/Impostors/Concealing/Escapist.html) | [Lightning](/options/Impostors/Concealing/Lightning.html) | [Miner](/options/Impostors/Concealing/Miner.html) | [Puppeteer](/options/Impostors/Concealing/Puppeteer.html) | [Rift Maker](/options/Impostors/Concealing/RiftMaker.html) | [Scavenger](/options/Impostors/Concealing/Scavenger.html) | [Shapemaster](/options/Impostors/Concealing/Shapemaster.html) | [Soul Catcher](/options/Impostors/Concealing/SoulCatcher.html) | [Swooper](/options/Impostors/Concealing/Swooper.html) | [Trickster](/options/Impostors/Concealing/Trickster.html) | [Undertaker](/options/Impostors/Concealing/Undertaker.html) | [Vampire](/options/Impostors/Concealing/Vampire.html) | [Warlock](/options/Impostors/Concealing/Warlock.html) | [Wildling](/options/Impostors/Concealing/Wildling.html)
-<br>
-
-### <font color=#4d2b22><b>Experimental</b></font>
----
-[Doll Master](/options/Impostors/Experimental/DollMaster.html) | [Mastermind](/options/Impostors/Experimental/Mastermind.html)
-
-### <font color=#bd8b88><b>Ghost</b></font>
----
-[Bloodmoon](/options/Impostors/Ghost/Bloodmoon.html) | [Minion](/options/Impostors/Ghost/Minion.html) | [Possessor](/options/Impostors/Ghost/Possessor.html)
-
-### <font color=#636363><b>Hindering</b></font>
----
-[Anonymous](/options/Impostors/Hindering/Anonymous.html) | [Dazzler](/options/Impostors/Hindering/Dazzler.html) | [Devourer](/options/Impostors/Hindering/Devourer.html) | [Disperser](/options/Impostors/Hindering/Disperser.html) | [Eraser](/options/Impostors/Hindering/Eraser.html) | [Penguin](/options/Impostors/Hindering/Penguin.html) | [Pitfall](/options/Impostors/Hindering/Pitfall.html) | [Stealth](/options/Impostors/Hindering/Stealth.html) | [Twister](/options/Impostors/Hindering/Twister.html)
-<br>
-
-### <font color=#6a0000><b>Killing</b></font>
----
-[Arrogance](/options/Impostors/Killing/Arrogance.html) | [Bomber](/options/Impostors/Killing/Bomber.html) | [Bounty Hunter](/options/Impostors/Killing/BountyHunter.html) | [Butcher](/options/Impostors/Killing/Butcher.html) | [Chronomancer](/options/Impostors/Killing/Chronomancer.html) | [Councillor](/options/Impostors/Killing/Councillor.html) | [Cursed Wolf](/options/Impostors/Killing/CursedWolf.html) | [Deathpact](/options/Impostors/Killing/Deathpact.html) | [Evil Guesser](/options/Impostors/Killing/EvilGuesser.html) | [Evil Hacker](/options/Impostors/Killing/EvilHacker.html) | [Evil Tracker](/options/Impostors/Killing/EvilTracker.html) | [Greedy](/options/Impostors/Killing/Greedy.html) | [Hangman](/options/Impostors/Killing/Hangman.html) | [Inhibitor](/options/Impostors/Killing/Inhibitor.html) | [Instigator](/options/Impostors/Killing/Instigator.html) | [Killing Machine](/options/Impostors/Killing/KillingMachine.html) | [Ludopath](/options/Impostors/Killing/Ludopath.html) | [Lurker](/options/Impostors/Killing/Lurker.html) | [Mercenary](/options/Impostors/Killing/Mercenary.html) | [Ninja](/options/Impostors/Killing/Ninja.html) | [Quick Shooter](/options/Impostors/Killing/QuickShooter.html) | [Saboteur](/options/Impostors/Killing/Saboteur.html) | [Sniper](/options/Impostors/Killing/Sniper.html) | [Trapster](/options/Impostors/Killing/Trapster.html) | [Underdog](/options/Impostors/Killing/Underdog.html) | [Witch](/options/Impostors/Killing/Witch.html) | [YinYanger](/options/Impostors/Killing/YinYanger.html) | [Zombie](/options/Impostors/Killing/Zombie.html)
-<br>
-
-### <font color=red><b>Madmate</b></font>
----
-[Crewpostor](/options/Impostors/Madmate/Crewpostor.html) | [Parasite](/options/Impostors/Madmate/Parasite.html) | [Refugee](/options/Impostors/Madmate/Refugee.html)
-<br>
-
-### <font color=#00ffff><b>Support</b></font>
----
-[Anti Adminer](/options/Impostors/Support/AntiAdminer.html) | [Blackmailer](/options/Impostors/Support/Blackmailer.html) | [Camouflager](/options/Impostors/Support/Camouflager.html) | [Cleaner](/options/Impostors/Support/Cleaner.html) | [Consigliere](/options/Impostors/Support/Consigliere.html) | [Double Agent](/options/Impostors/Support/DoubleAgent.html) | [Fireworker](/options/Impostors/Support/Fireworker.html) | [Gangster](/options/Impostors/Support/Gangster.html) | [Godfather](/options/Impostors/Support/Godfather.html) | [Kamikaze](/options/Impostors/Support/Kamikaze.html) | [Morphling](/options/Impostors/Support/Morphling.html) | [Nemesis](/options/Impostors/Support/Nemesis.html) | [Time Thief](/options/Impostors/Support/TimeThief.html) | [Vindicator](/options/Impostors/Support/Vindicator.html) | [Visionary](/options/Impostors/Support/Visionary.html)
-<br>
-
-### <font color=#8cffff><b>Vanilla</b></font>
----
-[Impostor](/options/Impostors/Vanilla/Impostor.html) | [Phantom](/options/Impostors/Vanilla/Phantom.html) | [Shapeshifter](/options/Impostors/Vanilla/Shapeshifter.html)
-
-### <font color=#7f8c8d><b>Secondary</b></font>
----
-[Bard](/options/Impostors/Secondary/Bard.html)
-<br>
-
-<br>
-
-<details>
-<summary><font color=red size='4em'><b>Settings</b></font></summary>
-<br>
-Below are settings to make the game more balanced based on your lobby's style of gameplay:
-
-* <font color=red>Impostors</font> know the roles of other <font color=red>Impostors</font>
-  * You'll know the roles of other <font color=red>Impostors</font> by their role below their name and <font color=red>red</font> color
-  * You can turn this <font color=green>ON</font> or <font color=red>OFF</font>
-* <font color=red>Impostors</font> know <font color=red>Madmates</font>
-  * You'll know the <font color=red>Madmate(s)</font> by their role below their name and <font color=red>red</font> color
-  * You can turn this <font color=green>ON</font> or <font color=red>OFF</font>
-* <font color=red>Impostors</font> can kill <font color=red>Madmates</font>
-  * <font color=red>Impostors</font> can kill <font color=red>Madmate(s)</font> using their respective kill button ability
-  * You can turn this <font color=green>ON</font> or <font color=red>OFF</font>
-<br><br>
-
-* <font color=red>Madmates</font> know each other
-  * You'll know who the other <font color=red>Mamdates</font> are by their <font color=red>red</font> color name
-  * You can turn this <font color=green>ON</font> or <font color=red>OFF</font>
-* <font color=red>Madmates</font> know <font color=red>Impostors</font>
-  * You'll know the roles of other <font color=red>Impostors</font> by their role below their name and <font color=red>red</font> color
-  * You can turn this <font color=green>ON</font> or <font color=red>OFF</font>
-* <font color=red>Madmates</font> can kill <font color=red>Impostors</font>
-  * <font color=red>Madmates</font> with <font color=b22222>Killing</font> roles will be able to kill <font color=red>Impostors</font>
-  * You can turn this <font color=green>ON</font> or <font color=red>OFF</font>
-* <font color=red>Madmates</font> have <font color=red>Impostor</font> vision
-  * <font color=red>Madmates</font> have maximum vision
-  * You can turn this <font color=green>ON</font> or <font color=red>OFF</font>
-* <font color=red>Madmates</font> can fix sabotages
-  * Turning this <font color=red>OFF</font> will essentially give <font color=red>Madmates</font> the [Fool](#fool) Add-on by default.
-  * You can turn this <font color=green>ON</font> or <font color=red>OFF</font>
-<br><br>
-
-* <font color=red>Refugee</font>'s Kill Cooldown
-  * The cooldown for <font color=red>Refugee</font>'s kill ability
-<br><br>
-
-* Default Shapeshift Cooldown
-  * The default cooldown for any <font color=red>Impostor</font> with the ability to shapeshift
-  * From 5 (minumum) to 995 (maximum) seconds with 5 seconds intervals
-* <font color=red>Impostors</font> can't sabotage after they've died
-  * <font color=red>Impostors</font> can't call any sabotages after they die
-  * You can turn this <font color=green>ON</font> or <font color=red>OFF</font>
-</details>
+> Want to see specific role/addon settings? Install the mod and tinker around with it!

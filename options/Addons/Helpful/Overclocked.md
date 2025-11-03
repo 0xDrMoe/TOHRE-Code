@@ -1,27 +1,10 @@
----
+﻿---
 lang: en-US
 title: Overclocked
 prev: Nimble
 next: Radar
 ---
+# <font color=#c4ad2c><b>Overclocked</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
 
-# <font color=#c4ad2c>⚡ <b>Overclocked</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
----
-
-As the Overclocked, your kill cooldown is reduced by a percentage.<br><br>
-Only assigned to roles with a kill button.
-* Max
-  * Set the Maximum amount of Overclocked that can be in a match
-* Spawn Chance
-  * Set the percentage players have of getting Overclocked.
-* Kill Cooldown Reduction
-  * Set the percentage that the Kill Cooldown of an Overclocked player gets reduced by
-
-> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons/)
-
-<details>
-<summary><b><font color=gray>Unofficial Lore</font></b></summary>
-
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
-</details>
+As the Overclocked, your Kill Cooldown is reduced by a percentage.<br>
+This feature is only assigned to roles with a Kill button.

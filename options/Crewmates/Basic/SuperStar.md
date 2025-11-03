@@ -1,25 +1,9 @@
----
+﻿---
 lang: en-US
-title: Super Star
+title: SuperStar
 prev: Randomizer
 next: TaskManager
 ---
+# <font color="#f6f657"><b>Super Star</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
 
-# <font color="#f6f657">🌟 <b>Super Star</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
----
-
-The Super Star will have a Star next to their name so everyone knows who they are. The Super Star can only be killed when alone with a Killer.
-* Max
-  * Set the Maximum amount of Super Stars that can be in a match.
-* Everyone knows the Super Star: 
-  * <font color=green>ON</font>: a <font color=yellow>yellow</font> star will appear next to the Super Star’s name
-  * <font color=red>OFF</font>: the Super Star remains secret
-
-> From: Goose Goose Duck & Coding: [KARPED1EM](https://github.com/KARPED1EM)
-
-<details>
-<summary><b><font color=gray>Unofficial Lore</font></b></summary>
-
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
-</details>
+There will be a star logo next to the Super Star's name, so everyone knows who the Super Star is. The Super Star can only die when the murderer is alone with the Super Star (regular kills only). In addition, the Guessers can't guess the Super Star.

@@ -1,34 +1,9 @@
----
+﻿---
 lang: en-US
-title: Double Shot
-prev: /options/Settings/Addons.html
+title: DoubleShot
+prev: Rebound
 next: Guesser
 ---
-
-# <font color=#19fa8d>⏩ <b>Double Shot</b></font> <Badge text="Guesser" type="tip" vertical="middle"/>
----
+# <font color=#19fa8d><b>Double Shot</b></font> <Badge text="Guesser" type="tip" vertical="middle"/>
 
 When a player with Double Shot guesses a role incorrectly, they will get a second chance to guess, but the next wrong guess will result in suicide.
-* Spawn Chance
-  * Set the percentage players have of getting Double Shot
-* <font color=red>Impostors</font> can have Double Shot
-  * <font color=green>ON</font>: <font color=red>Impostors</font> can become this role
-  * <font color=red>OFF</font>: <font color=red>Impostors</font> cannot become this role
-* <font color=#8cffff>Crewmates</font> can have Double Shot
-  * <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> can become this role
-  * <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become this role
-* <font color=#7f8c8d>Neutrals</font> can have Double Shot
-  * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
-  * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
-* <font color=#ac42f2>Coven</font> can become Double Shot
-  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become this role
-  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become this role
-
-> From: Town of Us Reactivated & Coding: [Tommy-XL](https://github.com/Tommy-XL)
-
-<details>
-<summary><b><font color=gray>Unofficial Lore</font></b></summary>
-
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
-</details>

@@ -240,7 +240,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.2.0 Alpha 13</font></b></summary>
 
 \+ <font color=green><b>NEW</b></font>: Jackal Recruit options by [laikrai](https://github.com/laikrai)<br>
-\+ <font color=green><b>NEW</b></font>: Tag manager now reads in all folders in TOHE-DATA/Tags (except vanilla folders) by [Pyro](https://github.com/NotPyro404)<br>
+\+ <font color=green><b>NEW</b></font>: Tag manager now reads in all folders in TOHE-DATA/Tags (except vanilla folders) by Pyro<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Remove conflicting addons on role change mid game by [Marg](https://github.com/MargaretTheFool)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Godfather working on dead players by [Marg](https://github.com/MargaretTheFool)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix torch has wrong vision by [ImpyIsLazy](https://github.com/impostor4291)<br>
@@ -683,7 +683,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 * By [**TommyXL**](https://github.com/Tommy-XL) + [**NikoCat223**](https://github.com/NikoCat233)<br>
 \+ <font color=green><b>NEW</b></font>: Added disabling vent usage for vanilla (ported from MoreGamemodes) (When a player does not have access to vents, they will never be able to use it)<br>
 
-* By [**Pyro**](https://github.com/NotPyro404)<br>
+* By **Pyro**<br>
 \+ <font color=green><b>NEW</b></font>: Harmful Add-on: Sloth<br>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
@@ -803,7 +803,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Rebirth setting<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed YinYanger conflicts and Double Agent message<br>
 
-* By [**Pyro**](https://github.com/NotPyro404)<br>
+* By **Pyro**<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Update YinYanger info so it doesn't get tagged by Innersloth filter<br>
 
 * By [**WaterPanda**](#)<br>
@@ -1277,7 +1277,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 8</font></b></summary>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
-\+ <font color=green><b>NEW</b></font>: Helpful Addon: [Radar](/options/Addons/Helpful/Radar.html) (Idea: <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Pyro </span>)<br>
+\+ <font color=green><b>NEW</b></font>: Helpful Addon: [Radar](/options/Addons/Helpful/Radar.html) (Idea: Pyro)<br>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix null exception error on notify roles<br>
@@ -1948,7 +1948,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed president (It should no longer show /reveal if hide command is on)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Changed president /end to /finish for president because of command conflict<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Updated Fragile (Fragile will no longer show themselves as killer if they die.)<br>
-\+ <font color=#12edaf><b>REWORK</b></font>: Reworked Reverie (Idea: <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Pyro </span>, Original Idea & Code: TronAndRey) (Added increase and Max kill cooldown setting. Reverie misfires and dies with target after reaching Max cooldown)<br>
+\+ <font color=#12edaf><b>REWORK</b></font>: Reworked Reverie (Idea: Pyro, Original Idea & Code: TronAndRey) (Added increase and Max kill cooldown setting. Reverie misfires and dies with target after reaching Max cooldown)<br>
 
 * By [**lars-wu (papercut)**](https://github.com/lars-wu)<br>
 \+ <font color=green><b>NEW</b></font>: Added a new setting for Coroner (Inform killer about being tracked)<br>

@@ -1,22 +1,9 @@
----
+﻿---
 lang: en-US
 title: Observer
 prev: Mortician
 next: Oracle
 ---
+# <font color="#a8e0fa"><b>Observer</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
-# <font color="#a8e0fa">🔭 <b>Observer</b></font> <Badge text="Support" type="tip" vertical="middle"/>
----
-
-The Observer can see all shield animations caused by other players after the first meeting.
-* Max
-  * Set the Maximum amount of Observers that can be in a match
-
-> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
-
-<details>
-<summary><b><font color=gray>Unofficial Lore</font></b></summary>
-
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
-</details>
+As the Observer, you can see all Shield Animations caused by other players after the first meeting. The Shield Animations typically indicate a role ability, so look out for this.

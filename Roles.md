@@ -13,56 +13,44 @@ sidebar:
 contributors: false
 ---
 
-# <font color=#f0b6d5>Roles</font>
+# <font color=#f0b6d5><b>Roles</b></font>
 
-<font size=3em><b>Latest Versions:</b></font><br>
+### Use the Sidebar to navigate Factions & Settings!
 
-<table>
-<tr>
-<td><a href="/changelogs/Alpha.html" style="color:#997d6d"><b>Alpha</b></a></td>
-<td>v2.3.0 Alpha 6</td>
-</tr>
-<tr>
-<td><a href="/changelogs/Beta.html" style="color:#6d7299"><b>Beta</b></a></td>
-<td>v2.2.1 Beta 1</td>
-</tr>
-<tr>
-<td><a href="/changelogs/Stable.html" style="color:#996d7f"><b>Stable</b></a></td>
-<td>v2.2.0 Stable</td>
-</tr>
-</table>
+Standard Mode TOHE has quite a few roles that can drastically change how every game is played. You could have a round of murder mystery, another an all out war, the possibilities are endless. Throw in some Crewmate roles to make crewmates more useful, sprinkle in some Impostors to make them even, add in some Neutrals for some more flavor, and finally some Addons to spice up the game. Coven for desert. <br>
+<b>Total Role Count: 328</b>
 
-<font size=3em><b>Role Types + Count</b></font><br>
+## <font color="#ff9ace"><b>Add-ons</b></font>
+These are modifiers that any players can acquire. There are some that help you, some that harm you, and some can do both! There are also some Impostor Only add-ons. Each one is unique in the way it affects the player.<br>
+Some add-ons are only received from other players, such as Cleansed or Knighted. These are known as Betrayal Add-ons. These will not be covered on this page.<br>
+<b>Role Count: 77</b>
 
-<table>
-<tr>
-<td><a href="/options/Settings/Addons.html" style="color:#ff9ace"><b>📋 Add-ons</b></a></td>
-<td>Add-ons that can be added to any role for any player</td>
-<td align="center">69</td>
-</tr>
-<tr>
-<td><a href="/options/Settings/Coven.html" style="color:#ac42f2"><b>🧙‍♀️ Coven</b></a></td>
-<td>Play together and win via killing/voting out all Crewmates/Neutrals/Impostors</td>
-<td align="center">15</td>
-</tr>
-<tr>
-<td><a href="/options/Settings/Crewmates.html" style="color:#8cffff"><b>🦸‍♂️ Crewmates</b> </a></td>
-<td>Play together and win by completing all tasks/voting out all Evil</td>
-<td align="center">83</td>
-</tr>
-<tr>
-<td><a href="/options/Settings/Impostors.html" style="color:red"><b>🦹‍♂️ Impostors</b></a></td>
-<td>Play together and win via killing/voting out all Crewmates/Neutrals/Coven</td>
-<td align="center">79</td>
-</tr>
-<tr>
-<td><a href="/options/Settings/Neutrals.html" style="color:#7c8c8d"><b>🕶️ Neutrals</b></a></td>
-<td>Play alone and win via their own win conditions</td>
-<td align="center">70</td>
-</tr>
-<tr>
-<td colspan=2>📊 Total:</td>
-<td align="center"><b>312</b></td>
-</tr>
-</table>
-<br>
+## <font color="#ac42f2"><b>Coven</b></font>
+The Coven</font> is a faction of evildoers who specialize in witchcraft. Their goal is to kill all who would oppose the Coven. They use the Necronomicon to enhance their powers, but only one member at a time can hold it. A random Coven member will spawn with the Necronomicon, denoted by the <font color="#ac42f2">♣</font> symbol next to their name. Coven members can vote each other during meetings to determine who to pass the Necronomicon to.<br>
+<b>Role Count: 15</b>
+
+## <font color="#8cffff"><b>Crewmates</b></font>
+Crewmates must focus on sniffing out the Impostors and completing their tasks. If they complete their tasks, or vote out the killers, they win.<br>
+<b>Role Count: 84</b>
+
+## <font color=red><b>Impostors</b></font>
+Impostors must take out the crewmates, as well as their competition, to win the game.<br>
+<b>Role Count: 79</b>
+
+## <font color="#7f8c8d"><b>Neutrals</b></font>
+Neutrals are out for themselves. Play for yourself, and eliminate everyone around you. Neutrals can win alone, but they can also win with other players. Their victory conditions are different from other players. Each Neutral player has a unique victory condition.<br>
+<b>Role Count: 73</b> 
+
+## <font color="#ff5b70"><b>None</b></font>
+The only role that should be in this "Faction" (If you could even call it that.) is the Game Master, or GM. So what is a Game Master?<br>
+The Game Master is an observer role. Their presence does not affect the game, and all players know who the Game Master is. The Game Master role will be assigned to the Host, who will automatically become a ghost at the start of the game.<br>
+<b>Role Count: 1</b> 
+
+## <b>Game Settings</b>
+Game Settings are your Vanilla Lobby settings. Nothing special really changed with these.
+
+## <b>System Settings</b>
+System Settings are your main configuration settings. You can change your Presets here, as well as mess with your blacklist, whitelist, and other various settings.
+
+## <b>Mod Settings</b>
+Mod Settings are your Main TOHE Lobby settings. You can enable specific mechanics here, or change the current gamemode. These affect how the game is played.

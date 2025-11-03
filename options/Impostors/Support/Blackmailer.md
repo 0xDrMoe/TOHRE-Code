@@ -1,44 +1,9 @@
----
+﻿---
 lang: en-US
 title: Blackmailer
 prev: AntiAdminer
 next: Camouflager
 ---
+# <font color=red><b>Blackmailer</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
-# <font color=red>🔇 <b>Blackmailer</b></font> <Badge text="Support" type="tip" vertical="middle"/>
----
-
-As the Blackmailer, when you shift into a target you will blackmail that player, and the blackmailed player cannot speak.<br><br>
-Speaking by the blackmailed player will trigger the confusion command, please do not speak when the blackmailed player sees his icon
-* Max
-  * Set the Maximum amount of Blackmailers that can be in a match
-* Blackmail Cooldown
-  * Set how long the Blackmailer has to wait to blackmail a player
-
-> From: ToUR & Coding: [LezaiYa](https://github.com/LezaiYa)
-
-<details>
-<summary><b><font color=gray>Unofficial Lore</font></b></summary>
-
-Prologue The blackmailer was a huge nerd (Like the author) and always calculated statistics of each and every thing... And as per him The impostors were mostly called out by a lurking Crewmate
-
-Chapter 1 Vrooom
-The Blackmailer was also blessed by superspeed.. but for a VERY VERY small duration of time... So he could zoom past a huge crowd or zoom through the school auditorium... He always used this ability for fun but now he would use it to wreak havoc :)
-
-Chapter 2 Shapeshifting
-Now he learnt how to shapeshift quite simple actually just take a costume and put it on, Trying it out he figured it out and started using it to scare his friends again, Joking around
-
-Chapter 3 Trauma
-One day the Blackmailer heard about a rumor of the crewmate who saw his own shapeshifter, He was terrified for DAYS not uttering words- Wait IDEA
-
-Chapter 4 Beautiful Idea
-The Blackmailer got a beautiful idea and went on to execute it with perfection he would go shapeshift and traumatize the person he shapeshifted into and then he would Kill...
-
-With no consequences!!
-
-Every round he did this and every round he was saved... And in the end? He won!!
-
-Happy ending :)
-
-> Submitted by: champofchamps78
-</details>
+As the Blackmailer, when you Shift into a target, you will blackmail that player. This means that during the meetings, they won't be able to speak. Note: If someone is already blackmailed, blackmailing another person un-blackmails the current person.<br>

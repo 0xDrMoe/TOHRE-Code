@@ -1,32 +1,10 @@
----
+﻿---
 lang: en-US
 title: Pyromaniac
 prev: PlagueScientist
 next: SerialKiller
 ---
 
-# <font color="#fc8c4c">🔥 <b>Pyromaniac</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
----
+# <font color="#fc8c4c"><b>Pyromaniac</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
-As the Pyromaniac, your job is to kill everyone and be the last one standing. Your special ability is that you can douse players. Whenever you kill a doused player, your kill cooldown will be very short.
-* Kill Cooldown
-  * Set how long the Pyromaniac has to wait to kill players
-* Douse cooldown
-  * Set how long a Pyromaniac has to wait to douse players
-* Kill cooldown after killing a doused player
-  * Set the kill cooldown that the Pyromaniac will have after killing a doused player
-* Can Vent
-  * <font color=green>ON</font>: Pyromaniac can vent
-  * <font color=red>OFF</font>: Pyromaniac cannot vent
-* Has <font color=red>Impostor</font> Vision
-  * <font color=green>ON</font>: the Pyromaniac can see as far as an <font color=red>Impostor</font> can
-  * <font color=red>OFF</font>: the Pyromaniac will have <font color=#8cffff>Crewmate</font> Vision
-
-> From: EHR
-
-<details>
-<summary><b><font color=gray>Unofficial Lore</font></b></summary>
-
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
-</details>
+As the Pyromaniac, you can douse players (single click) or kill normally (double click). Dousing players do nothing immediately, but killing a doused player will significantly shorten your Kill Cooldown. To win, be the last player alive.<br>

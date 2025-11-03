@@ -10,37 +10,30 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 :::
 
-### <font color=#ff8000>[Moe](https://github.com/0xDrMoe) - President</font>
+### <font color=#ff8000>[Moe](https://github.com/0xDrMoe) - Founder / Operations Manager</font>
 
 I'm a young developer who loves coding and gaming. I started coding when I was in High School, and I've been coding for 6 years. I'm currently learning several coding languages, but I speak English, French and Arabic verbally! I started playing Among Us when it released, and I've been playing it ever since. I stopped when the game died down after Airship, but I stumbled upon TOHE and I loved it. I decided to help out with the mod, and somehow I'm currently the President.
 
 I specialize in HTML, CSS, SQL, and JavaScript, but I'm learning Python and C++. I graduated from College with a degree in Computer Science, and I'm currently working as a freelance web developer. My main goal is to become a full-stack developer, focusing on Cybersecurity. and I'm working towards that goal.
 
-### <font color=#e0b0ff>[Sarha](#) - Co-President</font>
+### Pyro <font color=#49e6ac>- Prior Website Maintainer + Retired Moderator</font>
 
-Sarha has a curious mind and a talent for tackling challenges head-on, turning ideas into real results. Whether it’s coming up with creative solutions, sorting through tricky data, or finding the best approach for any task, she’s always ready to adapt and get things done. With a love for learning and creating, Sarha brings energy and expertise to everything she works on.
-
-### <font color=#49e6ac>[Pyro](https://www.youtube.com/notpyro404) - Website Maintainer + Moderator</font>
-
-I'm also mostly known online as NotPyro404. I am a Moderator in TEN's Discord Server, as well as a Website Maintainer for [T.E.N.](https://weareten.ca/) (Mainly TOHE Documentation). I've "coded" a bit for Town of Host: Enhanced, but not a lot.<br>
+I'm also mostly known online as NotPyro404. I was previously a Moderator in TEN's Discord Server, as well as the Website Maintainer for [T.E.N.](https://weareten.ca/) (Mainly TOHE Documentation). I've "coded" a bit for Town of Host: Enhanced, but not a lot.<br>
 I'm a terrible Content Creator & Minecraft Builder.<br>
+Unfortunately, Among Us just isn't a big interest of mine anymore, which as a result made my love towards TOHE, and mods in general, die down. I figured I owed you one last update though!
 <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
 
-### <font color=#f0b6d5>[Lauryn](#) - Head of Human Resources</font>
-
-I'm just a girl who loves to play video games and is obsessed with everything <font color=#f0b6d5>pink</font>! My job is to keep all aspects of The Enhanced Network (and TOHE itself) a fun and welcoming place for all. This means I'm keeping everyone in check, including your very own project lead! 😉
-
-### <font color=#ff8000>[Jackler](https://linktr.ee/Jackler) - Head of Tech Ops</font>
-
-Helping out with Tickets, bot related things... basically anything to do with the Discord.
-
-### <font color=#0000ff>[Matt](#) - Head of Legal</font>
+### <font color=#0000ff>[Makayla](#) - General Manager</font>
 
 I'm 25 years old from the United States. I am a bar certified attorney in contract law as well as professional broadcast engineer working full time for ESPN. In my free time, I run a non-profit food ministry in Louisiana as well as enjoy watching sports.
 
-### <font color=#9e2424>[ryuk](https://github.com/ryuk201198) - Head of Development</font>
+### <font color=#f0b6d5>[Lauryn](#) - Staff Manager & Staff Relations Manager</font>
 
-I help in role and feature coding, and also help in fixing bugs from time to time. I love listening to music and coding. I usually prefer to code in python whether it may be for competitive coding or a small program. I also love playing action-adventure games with a good story line. <s>I actually coded my first role with 0 knowledge of C# because someone who shall not be named couldn't code Vulture.</s> xV and Solarflare helped me a lot initially in helping me code features and roles.
+I'm just a girl who loves to play video games and is obsessed with everything <font color=#f0b6d5>pink</font>! My job is to keep all aspects of The Enhanced Network (and TOHE itself) a fun and welcoming place for all. This means I'm keeping everyone in check, including your very own project lead! 😉
+
+### <font color=#ff8000>[Jackler](https://linktr.ee/Jackler) - Community Liaison</font>
+
+Helping out with Tickets, bot related things... basically anything to do with the Discord.
 
 ### [ThisDude](#) - Translation Manager
 
@@ -56,36 +49,6 @@ I'm a Translation Manager for The Enhanced Network, and I manage the Spanish, LA
 I’m a German Translator from Austria, 21, and verified Master of watchmaking. My passion is professional translating, management, moderation and developing on Discord.<br>
 I’m a Translation Manager for The Enhanced Network, and I manage the German, Dutch, Italian, & French languages.
 
-### [FieryFlower](#) - Sr. Moderator
-
-I help out with ensuring the server stays a welcoming and fun community for all who join it. I enjoy painting in my spare time while my dogs try to steal my paintbrushes! When I'm not on Among Us I enjoy playing cozy or scary games! I have 2 dogs and 1 cat who I love more than words could describe.
-
-
-### [LiLPEA](#) - Sr. Moderator
-
-I help keep the community of The Enhanced Network a safe and welcoming place for everyone. So if there’s an issue, please feel free to reach out! I love to play video games (but I’m a sore loser lol) and spend time with my family. 
-
-### [Laikrai](#) - Moderator
-
-I help out in TEN's Discord Server. I'm working on the Modded Among Us Queue bot. Some hobbies I have are playing games & programming. <s>My favorite game is probably Valorant.</s> My favorite game is probably Lethal Company.
-
-### [Tasha](#) - Moderator
-
-I am a Helper in TEN's Discord Server, aiming to ensure that it is a welcoming and supportive community for everyone to enjoy! I enjoy playing video games, taking midday naps, watching UFC and making pickles!
-
-### [Flashy](#) - Moderator
-
-Helping to ensure the safety of the community, answering questions about the server and TOHE.
-
-### [Fish King ](#) - Helper
-
-Passionate about chemistry, politics and gaming, working hard to be able to give my children and wife the life they deserve.
-Feel free to drop me an @ for a chat!
-
-### [Cayla](#) - Helper
-
-Hey! I am Cayla, I love the ocean and anything nautical. My favorite animal is a narwhal, and yes they are real! Love playing different video games, currently obsessed with TOHE. I am an up and coming moderator here and I hope that I can bring some positive vibes to the community. Two truths and a lie: I danced on stage with Cyndi Lauper to Girls Just Want to have fun and tossed my shirt into the crowd. I am terrified of ketchup. I skinny dipped in Mexico with Rob Thomas of Matchbox Twenty.
-
 ### <font color=#ffff00>[NikoCat233](https://github.com/NikoCat233) - Lead Developer @ Town of Host: Enhanced</font>
 
 I initially started coding for mod to host public modded rooms, especially when mods was being banned from public matchmaking. I helped with role coding and feature development. Now, I'm actively fixing bugs and improving the mod's performance. "Coding for play" has always been my source of passion, driving me to keep working on this project.
@@ -94,10 +57,6 @@ I initially started coding for mod to host public modded rooms, especially when 
 
 Sup... I recently got into coding in the last two years, mostly C# and Python.
 and I also do 3D art design as a hobby! Glad to meet everyone here and can't wait to work with y'all. ❤️
-
-### <font color=#a99a86>[Dan](#) - Lead Developer @ Town of Host: Enhanced <b>RANKED</b></font>
-
-uhhidk
 
 ### <font color=#0000ff>[Jarne](#) - Lead Developer @ Mod Manager</font>
 
@@ -113,9 +72,13 @@ I love playing games (I mostly play all games on PlayStation). I especially pay 
 
 I plan to port most of the roles from Town of Salem 2 in some form because I love that game. I have literally never coded in C# before I started working on the mod, but it's close enough to Java that I made it work `:)`. Some of my hobbies are playing video games (of course), bowling, and playing the guitar.
 
+### <font color=#9e2424>[ryuk](https://github.com/ryuk201198) - Role Coding/Feature Coding</font>
+
+I help in role and feature coding, and also help in fixing bugs from time to time. I love listening to music and coding. I usually prefer to code in python whether it may be for competitive coding or a small program. I also love playing action-adventure games with a good story line. <s>I actually coded my first role with 0 knowledge of C# because someone who shall not be named couldn't code Vulture.</s> xV and Solarflare helped me a lot initially in helping me code features and roles.
+
 ### [Papercut](https://github.com/lars-wu) - Role Coding
 
-Coded many Roles and Features. (placeholder)
+Coded many Roles and Features.
 
 ### [FuroYT](https://github.com/FuroYT) - Feature Coding/<font color=#002654><b>French</b></font> Translator
 
@@ -188,7 +151,7 @@ I'm a Portuguese Brazil Translator. I'm also a Friday Night Funkin' coder, & I m
 
 ### [KevOut](#) - <font color=#002654><b>French</b></font> Translator
 
-Helped Translate TOHE into French. (placeholder)
+Helped Translate TOHE into French.
 
 ### [Sansationnelle](https://steamcommunity.com/profiles/76561199403547166) - <font color=#002654><b>French</b></font> Translator
 
@@ -196,7 +159,7 @@ Well I'm having a bad time at school. I like gaming as Undertale and being lazy 
 
 ### [SpaceMonkey](#) - <font color=#002654><b>French</b></font> Translator
 
-Helped Translate TOHE into French. (placeholder)
+Helped Translate TOHE into French.
 
 ### [xxSShadow](https://www.youtube.com/@xxSShadow) - <font color=#009b3a><b>Latam (Latin American)</b></font> Translator/<font color=#ffc400><b>Spanish</b></font> Translator
 

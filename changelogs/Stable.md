@@ -14,7 +14,40 @@ To access Stable Builds, you can visit TEN's [Discord Server](https://discord.gg
 ---
 <font size=3em>
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.4.0</font></b></summary>
+
+## New Experimental Role:
+
+• Added Cupid (Neutral Benign)
+
+## New Commands:
+
+• /save [fileName] - Saves the current preset into TOHE-DATA/Presets; Host only.<br>
+• /load [fileName] - Loads a preset from TOHE-DATA/Presets<br>
+
+## Changes:
+
+• Refactored Lovers to allow multiple lover pairs and better interactions (Lovers can now be stolen/removed)
+• Added options to hide reveals for certain roles (Consigliere, Potion Master, Baker)
+• Added options to Necromancer, Judge, Copycat, Rat list, and other role-specific settings
+• Harvester, Bandit, Jackal, and Sidekick added to Copycat variants list
+• Improved system message resending and other reliability improvements
+
+## Bug Fixes:
+
+• Fixed Medusa mark showing twice after death
+• Fixed guessing UI not working on non-host modded clients
+• Fixed Harvester stealing too many add-ons
+• Fixed Merchant selling Crewmate instead of failing to sell
+• Fixed Inquisitor winning when dead
+• Fixed Dreamwoven messaging timing and other launch/fix issues
+
+### Check out all of the mod's info on our website: https://tohe.weareten.ca/
+
+</details>
+
+<details>
+<summary><b><font color=#d395b4>v2.2.0</font></b></summary>
 
 # Important Notes
 We've received a definitive update from the developers at Innersloth regarding the Rate Limit anti-cheat measures.<br>
@@ -28,13 +61,13 @@ Once Innersloth reactivates its Rate Limit anti-cheat, Rate Limit Bypasses will 
 Remember, this may cause unexpected issues on official servers, such as unhidden messages from guessers, delayed player name updates, packet loss resulting in missed updates, occasional black screens after meetings, and very slow loading times. If you continue to play with this option enabled, please be aware that the server may become unstable, and there is a slight chance of being flagged by the anti-cheat system. We will do our best to address these issues, but please understand that some may be beyond our control.<br>
 
 <b>Credits</b><br>
-Thanks to @NikoCat233 @MargaretTheFool @Tommy-XL @PEPPERcula @NotPyro404 @Impostor4291 @ApeMV @Laikrai @Pietrodjaowjao @ApeMV @Bri1101 @Reborn5537 @Limeau for making this release possible<br>
+Thanks to @NikoCat233 @MargaretTheFool @Tommy-XL @PEPPERcula Pyro @Impostor4291 @ApeMV @Laikrai @Pietrodjaowjao @ApeMV @Bri1101 @Reborn5537 @Limeau for making this release possible<br>
 Thanks to our translators for their hard work in bringing the mod to everyone<br>
 Thanks to our testers and players for finding bugs and providing helpful feedback<br>
 Thanks to everyone who keeps supporting the mod and helps us move further forward!<br>
 
 <b>Major Mod Functions Changes:</b><br>
-- New Tag System @MargaretTheFool and @NotPyro404<br>
+- New Tag System @MargaretTheFool and Pyro<br>
   - You can now create a friendcode.txt file from Tag_Template.txt in TOHE-Data/Tags to assign tags and permissions to a player<br>
 - New chat spam system (enable in Mod Settings -> Guess Mode) @NikoCat233<br>
   - It is much faster and more stable than previous spam<br>
@@ -95,7 +128,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 - Engineer-based roles with 1-second vent duration now can't move in the vent (like jester)<br>
 - New Option: Dictator use /vote command to expel players @hinhinarrrrrr<br>
 
-<b>Minor Role Changes</b><br>
+-<b>Minor Role Changes</b><br>
 - Double Agent now can kill when it's the only imp alive @Impostor4291<br>
 - Changed the ability button text for some roles @PEPPERcula<br>
 - Fix Role Description for DollMaster and ChiefOfPolice by @Impostor4291<br>
@@ -114,7 +147,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 - Add Legacy option for Traitor and Parasite (Can Shapeshift) by @PEPPERcula<br>
 - Other Minor changes that are missed from this list<br>
 
-<b>Improvements</b><br>
+-<b>Improvements</b><br>
 - New Option For Low Load: Delay Update Names @Tommy-XL<br>
   - Previously, names for vanilla clients would update every second. This seemed unnecessary, so we added this option to only update names for vanilla when necessary<br>
   - If you have any issues with name updates, please turn off this option and send us a report or open an Issue!<br>
@@ -132,13 +165,13 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 - More Custom Buttons @PEPPERcula<br>
   - 18 images added or updated to the mod<br>
 
-<b>Silent Tweaks:</b><br>
+-<b>Silent Tweaks:</b><br>
 - Send failed error on failed murder attempts @NikoCat233<br>
 - Improve code performance @Tommy-XL<br>
 - Improve AntiBlackout @Tommy-XL<br>
 - Repo is now set to use utf-8 crlf as encoding. @NikoCat233<br>
 
-<b>Other Bug Fixes and Improvements</b><br>
+-<b>Other Bug Fixes and Improvements</b><br>
 - Fixed bug when role name for modded players hide in Mushroom Spore<br>
 - Fixed Cursed Soul stole the win of Workaholic setting<br>
 - Fixed Cursed Soul setting "know role" not work<br>
@@ -171,7 +204,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 - Fixed Jackal and Police Chief being able to recruit Neutral Apocalypse @Reborn5537<br>
 - Our future official releases will include obfuscation on specific methods and functions. <br>
   - Obfuscation aims to protect our official builds from malicious tampering.<br>
-- Language folder is now changed to TOHE\Language<br>
+- Language folder is now changed to TOHE\\Language<br>
 - Rebased RoleBase to include targeting Custom Roles in it<br>
 - Included latest Custom Region files in the mod<br>
 - Added backup API URL in an attempt to ease connection issues in certain countries and regions<br>
@@ -350,7 +383,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Fortune Teller shows "INVALID:NotAssigned"<br>
 
 <b>Special thanks for help developing this version:</b>
-[**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), [**NikoCat223**](https://github.com/NikoCat233), [**Pietro**](https://github.com/Pietrodjaowjao), [**D1GQ**](https://github.com/D1GQ), [**ryuk**](https://github.com/ryuk2098), [**Marg**](https://github.com/MargaretTheFool), [**Moe**](https://github.com/0xDrMoe), [**WaterPanda**](#), [**乐崽吖**](https://github.com/LezaiYa), [**Gurge44**](https://www.youtube.com/@200iqguy), [**NotPyro404**](https://sites.google.com/view/notpyro404), [**GameTechGuides**](https://github.com/GameTechGuides)
+[**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), [**NikoCat223**](https://github.com/NikoCat233), [**Pietro**](https://github.com/Pietrodjaowjao), [**D1GQ**](https://github.com/D1GQ), [**ryuk**](https://github.com/ryuk2098), [**Marg**](https://github.com/MargaretTheFool), [**Moe**](https://github.com/0xDrMoe), [**WaterPanda**](#), [**乐崽吖**](https://github.com/LezaiYa), [**Gurge44**](https://www.youtube.com/@200iqguy), **Pyro**, [**GameTechGuides**](https://github.com/GameTechGuides)
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.0.0</font></b></summary>
@@ -454,11 +487,11 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 \+ <font color=#12edaf><b>RENAMED</b></font>: Masochist renamed to [Punching Bag](/options/Neutrals/Evil/PunchingBag.html) (By [**WaterPanda**](#))<br>
 \+ <font color=#12edaf><b>RENAMED</b></font>: Bloodlust renamed to [Bloodthirst](/options/Addons/Mixed/Bloodthirst.html) (By [**WaterPanda**](#))<br>
 \+ <font color=#12edaf><b>RENAMED</b></font>: Schizophrenic renamed to [Paranoia](/options/Addons/Mixed/Paranoia.html) (By [**WaterPanda**](#))<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: All instances of `tohre.dev` updated to `weareten.ca` (By [**NotPyro404**](https://sites.google.com/view/notpyro404))<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: All instances of `ko-fi.com/tohe` updated to `weareten.ca/tohe/` (By [**NotPyro404**](https://sites.google.com/view/notpyro404))<br><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: All instances of `tohre.dev` updated to `weareten.ca` (By Pyro)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: All instances of `ko-fi.com/tohe` updated to `weareten.ca/tohe/` (By Pyro)<br><br>
 
 <b>Special thanks for help developing this version:</b>
-[**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), [**NikoCat223**](https://github.com/NikoCat233), [**Pietro**](https://github.com/Pietrodjaowjao), [**D1GQ**](https://github.com/D1GQ), [**ryuk**](https://github.com/ryuk2098), [**Marg**](https://github.com/MargaretTheFool), [**Moe**](https://github.com/0xDrMoe), [**WaterPanda**](#), [**乐崽吖**](https://github.com/LezaiYa), [**Gurge44**](https://www.youtube.com/@200iqguy), [**NotPyro404**](https://sites.google.com/view/notpyro404), [**GameTechGuides**](https://github.com/GameTechGuides).<br>
+[**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), [**NikoCat223**](https://github.com/NikoCat233), [**Pietro**](https://github.com/Pietrodjaowjao), [**D1GQ**](https://github.com/D1GQ), [**ryuk**](https://github.com/ryuk2098), [**Marg**](https://github.com/MargaretTheFool), [**Moe**](https://github.com/0xDrMoe), [**WaterPanda**](#), [**乐崽吖**](https://github.com/LezaiYa), [**Gurge44**](https://www.youtube.com/@200iqguy), Pyro, [**GameTechGuides**](https://github.com/GameTechGuides).<br>
 - Check out all of our translators on our [**Website**](https://tohe.weareten.ca/AboutUs.html)<br>
 * [**Full v2.0.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.6.0...v2.0.0) or support us on our [Website](https://weareten.ca/TOHE/) to get access to early features!
 </details>

@@ -1,30 +1,14 @@
----
+﻿---
 lang: en-US
 title: Copycat
 prev: ChiefOfPolice
 next: Dictator
 ---
-
-# <font color="#ffb2ab">📝 <b>Copycat</b></font> <Badge text="Power" type="tip" vertical="middle"/>
----
-
-As the Copycat, you can use your kill button to copy target's role.<br><br>
-You can only copy some crewmate roles. (Roles that do not have arrows and the roles that do not have basis engineer)<br>
-If you copy rascal or a madmate you will turn into madmate. According to host settings, you may copy crew variant of a neutral or impostor role.<br><br>
-Additionally, You do not have access to guessing.
-* Max
-  * Set the Maximum amount of Copycats that can be in a match
-* Copy cooldown
-  * Set how long the Copycat needs to wait to use their ability
-* Can copy evil variants of crew roles
-  * <font color=green>ON</font>: Copycat will be able to copy evil versions of crewmate roles
-  * <font color=red>OFF</font>: Copycat will not be able to copy evil versions of crewmate roles
-
-> From: SLE & Coding: [ryuk](#)
-
-<details>
-<summary><b><font color=gray>Unofficial Lore</font></b></summary>
-
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
-</details>
+# <font color="#ffb2ab"><b>Copycat</b></font> <Badge text="Power" type="tip" vertical="middle"/>
+ 
+As the Copycat, you can use your Kill button to copy the target's role.<br>
+You can only copy some Crewmate roles.<br>
+If you try to copy a Madmate or Rascal, you become the Madmate variation of the target role.<br>
+If you target an evil with a Crewmate variant, you'll become the Crewmate variant.<br>
+Additionally, Your role will be set back to Copycat after every meeting.<br>
+Note You can't guess people in meetings.
