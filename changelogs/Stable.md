@@ -61,13 +61,13 @@ Once Innersloth reactivates its Rate Limit anti-cheat, Rate Limit Bypasses will 
 Remember, this may cause unexpected issues on official servers, such as unhidden messages from guessers, delayed player name updates, packet loss resulting in missed updates, occasional black screens after meetings, and very slow loading times. If you continue to play with this option enabled, please be aware that the server may become unstable, and there is a slight chance of being flagged by the anti-cheat system. We will do our best to address these issues, but please understand that some may be beyond our control.<br>
 
 <b>Credits</b><br>
-Thanks to @NikoCat233 @MargaretTheFool @Tommy-XL @PEPPERcula @NotPyro404 @Impostor4291 @ApeMV @Laikrai @Pietrodjaowjao @ApeMV @Bri1101 @Reborn5537 @Limeau for making this release possible<br>
+Thanks to @NikoCat233 @MargaretTheFool @Tommy-XL @PEPPERcula Pyro @Impostor4291 @ApeMV @Laikrai @Pietrodjaowjao @ApeMV @Bri1101 @Reborn5537 @Limeau for making this release possible<br>
 Thanks to our translators for their hard work in bringing the mod to everyone<br>
 Thanks to our testers and players for finding bugs and providing helpful feedback<br>
 Thanks to everyone who keeps supporting the mod and helps us move further forward!<br>
 
 <b>Major Mod Functions Changes:</b><br>
-- New Tag System @MargaretTheFool and @NotPyro404<br>
+- New Tag System @MargaretTheFool and Pyro<br>
   - You can now create a friendcode.txt file from Tag_Template.txt in TOHE-Data/Tags to assign tags and permissions to a player<br>
 - New chat spam system (enable in Mod Settings -> Guess Mode) @NikoCat233<br>
   - It is much faster and more stable than previous spam<br>
@@ -383,7 +383,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Fortune Teller shows "INVALID:NotAssigned"<br>
 
 <b>Special thanks for help developing this version:</b>
-[**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), [**NikoCat223**](https://github.com/NikoCat233), [**Pietro**](https://github.com/Pietrodjaowjao), [**D1GQ**](https://github.com/D1GQ), [**ryuk**](https://github.com/ryuk2098), [**Marg**](https://github.com/MargaretTheFool), [**Moe**](https://github.com/0xDrMoe), [**WaterPanda**](#), [**乐崽吖**](https://github.com/LezaiYa), [**Gurge44**](https://www.youtube.com/@200iqguy), [**NotPyro404**](https://sites.google.com/view/notpyro404), [**GameTechGuides**](https://github.com/GameTechGuides)
+[**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), [**NikoCat223**](https://github.com/NikoCat233), [**Pietro**](https://github.com/Pietrodjaowjao), [**D1GQ**](https://github.com/D1GQ), [**ryuk**](https://github.com/ryuk2098), [**Marg**](https://github.com/MargaretTheFool), [**Moe**](https://github.com/0xDrMoe), [**WaterPanda**](#), [**乐崽吖**](https://github.com/LezaiYa), [**Gurge44**](https://www.youtube.com/@200iqguy), **Pyro**, [**GameTechGuides**](https://github.com/GameTechGuides)
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.0.0</font></b></summary>
@@ -487,11 +487,11 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 \+ <font color=#12edaf><b>RENAMED</b></font>: Masochist renamed to [Punching Bag](/options/Neutrals/Evil/PunchingBag.html) (By [**WaterPanda**](#))<br>
 \+ <font color=#12edaf><b>RENAMED</b></font>: Bloodlust renamed to [Bloodthirst](/options/Addons/Mixed/Bloodthirst.html) (By [**WaterPanda**](#))<br>
 \+ <font color=#12edaf><b>RENAMED</b></font>: Schizophrenic renamed to [Paranoia](/options/Addons/Mixed/Paranoia.html) (By [**WaterPanda**](#))<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: All instances of `tohre.dev` updated to `weareten.ca` (By [**NotPyro404**](https://sites.google.com/view/notpyro404))<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: All instances of `ko-fi.com/tohe` updated to `weareten.ca/tohe/` (By [**NotPyro404**](https://sites.google.com/view/notpyro404))<br><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: All instances of `tohre.dev` updated to `weareten.ca` (By Pyro)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: All instances of `ko-fi.com/tohe` updated to `weareten.ca/tohe/` (By Pyro)<br><br>
 
 <b>Special thanks for help developing this version:</b>
-[**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), [**NikoCat223**](https://github.com/NikoCat233), [**Pietro**](https://github.com/Pietrodjaowjao), [**D1GQ**](https://github.com/D1GQ), [**ryuk**](https://github.com/ryuk2098), [**Marg**](https://github.com/MargaretTheFool), [**Moe**](https://github.com/0xDrMoe), [**WaterPanda**](#), [**乐崽吖**](https://github.com/LezaiYa), [**Gurge44**](https://www.youtube.com/@200iqguy), [**NotPyro404**](https://sites.google.com/view/notpyro404), [**GameTechGuides**](https://github.com/GameTechGuides).<br>
+[**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), [**NikoCat223**](https://github.com/NikoCat233), [**Pietro**](https://github.com/Pietrodjaowjao), [**D1GQ**](https://github.com/D1GQ), [**ryuk**](https://github.com/ryuk2098), [**Marg**](https://github.com/MargaretTheFool), [**Moe**](https://github.com/0xDrMoe), [**WaterPanda**](#), [**乐崽吖**](https://github.com/LezaiYa), [**Gurge44**](https://www.youtube.com/@200iqguy), Pyro, [**GameTechGuides**](https://github.com/GameTechGuides).<br>
 - Check out all of our translators on our [**Website**](https://tohe.weareten.ca/AboutUs.html)<br>
 * [**Full v2.0.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.6.0...v2.0.0) or support us on our [Website](https://weareten.ca/TOHE/) to get access to early features!
 </details>

@@ -251,7 +251,7 @@ InnerSloth has rolled out a server-side anti-cheating update that randomly kicks
 <b>Major Changes</b><br>
 \+ <font color=green><b>NEW</b></font>: Coven Roles are now back! [Marg](https://github.com/MargaretTheFool) <br>
 <i>  - You can find a detailed document by [clicking here](https://docs.google.com/document/d/1KaBjn6qk5NqUC7Ax7uQxXY1C9wsswWH__rBdzrZCd1I/edit?usp=sharing) until the [Website](https://tohe.weareten.ca/) is updated (PSA, it is updated as of Release 2.2.0)!</i><br>
-\+ <font color=green><b>NEW</b></font>: Tag System [Marg](https://github.com/MargaretTheFool) and [Pyro](https://github.com/NotPyro404) <br>
+\+ <font color=green><b>NEW</b></font>: Tag System [Marg](https://github.com/MargaretTheFool) and Pyro<br>
 <i>  - You can now create a friendcode.txt file from Tag_Template.txt in TOHE-Data/Tags to assign tags and permissions to a player</i><br>
 \+ <font color=green><b>NEW</b></font>: chat spam system (enable in Mod Settings -> Guess Mode) [Niko](https://github.com/NikoCat233)<br>
 <i>  - It is much faster and more stable than previous spam</i><br>
@@ -428,7 +428,7 @@ Thanks to everyone that keeps supporting the mod and helps us move further forwa
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Beta 1</font></b></summary>
 
-\+ <font color=green><b>NEW</b></font>: Sloth (Addon Harmful, Idea & Coded: [Pyro](https://github.com/NotPyro404)) (mostly code borrowed from Flash)<br>
+\+ <font color=green><b>NEW</b></font>: Sloth (Addon Harmful, Idea & Coded: Pyro) (mostly code borrowed from Flash)<br>
 \+ <font color=green><b>NEW</b></font>: Yin Yanger (Impostor Killing, idea & coded: [Drakos](https://github.com/Ultradragon005))<br>
 \+ <font color=green><b>NEW</b></font>: Troller (Neutral Chaos, idea: dx7405, coded: [TommyXL](https://github.com/Tommy-XL))<br>
 \+ <font color=green><b>NEW</b></font>: Altruist (Crewmate Support, ported: TOHR, coded: [TommyXL](https://github.com/Tommy-XL))<br>
@@ -633,7 +633,7 @@ Gangster and Admirer can no longer get the Egoist role.<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Killing Machine could get Oblivious<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Updated Mini (Mini can no longer be dueled, marked, blooded, and sliced)<br>
 
-* By [**Pyro**](https://github.com/NotPyro404)<br>
+* By **Pyro**<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Updated ko-fi link and OnMeeting templates<br>
 
 * By [**Marg**](https://github.com/MargaretTheFool)<br>

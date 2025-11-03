@@ -22,7 +22,7 @@ In order to be compatible with vanilla, Host-only mods have to give you a Impost
 <details>
 <summary><b><font color=gray>Can I install Town of Host: Enhanced on computers, phones, tablets, & consoles?</font></b></summary>
 
-You can only install mods on PC/Computer. You must have the Steam, Epic, Xbox App, or Itch versions of Among Us to download mods. If you have no PC/Computer, you don’t need to worry as, even if you don't have/can't get the mod, you can still join Host-Only mods (such as TOHE, TOH, PL, etc) as long as you have Among Us on any device! You can find the lobbies of these mods to join and play as long as you are on the right game version.
+You can only install mods on PC/Computer. You must have the Steam, Epic Games, or Xbox App versions of Among Us to download mods. If you have no PC/Computer, you don’t need to worry as, even if you don't have/can't get the mod, you can still join Host-Only mods (such as TOHE, TOH, PL, etc) as long as you have Among Us on any device! You can find the lobbies of these mods to join and play as long as you are on the right game version.
 </details>
 <details>
 <summary><b><font color=gray>What is Game Master/GM?</font></b></summary>

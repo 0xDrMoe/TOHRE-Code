@@ -36,3 +36,4 @@ footer: "© 2023 By The Enhanced Network"
 <p>Please be sure to read the FAQ page for questions, and the Guide to TOHE for help installing. If you need further assistance, don't be afraid to join our Discord and head to the proper channels.</p>
 <p>Visit Changelogs for the latest Mod + Website Updates.</p>
 <p>Have a Great Day!</p>
+<p>Thank You! - Pyro</p>

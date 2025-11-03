@@ -48,7 +48,7 @@ contributors: false
 <br>
 <b><font color=#5ea692>Site Changelogs/Updates</font></b>
 
-* By [**Pyro**](www.youtube.com/@NotPyro404)<br>
+* By **Pyro**<br>
 \+ <font color=green><b>NEW</b></font>: Updated to v2.4.0!<br>
 \+ <font color=green><b>NEW</b></font>: Completely reworked Faction Sidebars + Pages!<br>
 \+ <font color=green><b>NEW</b></font>: [Guide to TOHE!](/Guide.html)<br>
@@ -58,10 +58,8 @@ contributors: false
 \+ <font color=green><b>NEW</b></font>: Overhauled [Mod Settings](/options/Settings/Mod.html) (Gamemodes are now dropdown menus + their settings, rather than a big text mess.) as well as the Sidebars for Game, Mod, and System Settings (Sidebars were all changed in a way that made sense to me.)<br>
 \+ <font color=green><b>NEW</b></font>: Proper incomplete-translation landing pages.<br>
 \+ <font color=green><b>NEW</b></font>: New missing page pop-up text options! (This was mainly for fun!)<br>
-\+ <font color=green><b>NEW</b></font>: Betrayal Addons are now listed! (This also includes General Addons such as Cleansed, Knighted, and Soulless)<br>
+\+ <font color=green><b>NEW</b></font>: Betrayal Addons are now listed! (This also includes General Addons such as Cleansed.)<br>
 \+ <font color=green><b>NEW</b></font>: Transformation Roles + Hidden Roles are finally all listed under their own Factions respective Secondary folders.<br>
-\+ <font color=green><b>NEW</b></font>: (AFTER A LONG WAIT) Comments/Forums! If i eventually figure that out dont forget to delete this if i dont<br>
-\+ <font color=green><b>NEW</b></font>: All Roles now display their basis role (ie: Sheriff clarifies that Impostor is their Role Base) (refer above for this too)<br>
-\+ <font color=green><b>NEW</b></font>: SO MUCH MORE that I can't remember because it's like 2 in the morning!<br>
-= <font color=#ece218><b>Heart to Heart</b></font>: Thank you to The Enhanced Network, Town of Host: Enhanced, and all of the members for the past 2 years! I started helping out when I was 15, and it was the most fun 2 years ever! I've learned so much about coding, responsibilities, even myself. This is very likely one of the, if not the, last updates I will make to the website, as unfortunately my love towards Among Us in general has died down a ton the past 7-8 months, which in turn, made my love towards TOHE, and mods in general, die down too. Seeing as this is likely my last site update, I've tried to get everything up-to-date, and simpler to use. (Maybe you liked the way the old site was laid out, use some like wayback machine or something, lol.) With this came a LOT of changes. I also tried to implement as MUCH of the website feedback (#website-feedback) as I possibly could with my abilites, so if something you wanted didn't make it, maybe a future site maintainer could get to it.<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Translations and Presets should now be downloadable. If not, woops google lied and I don't know how to fix it.<br>
+= <font color=#ece218><b>Thanks</b></font>: Thank you to Town of Host: Enhanced, and all of the members for the past 2 years! I've learned so much about coding, responsibilities, even myself. This is very likely one of, if not the last update I will make to the website, as unfortunately my love towards Among Us in general has died down a ton the past 7-8 months, which in turn, made my love towards TOHE, and mods in general, die down too. Seeing as this is likely my last site update, I've tried to get everything up-to-date, and simpler to use. (Maybe you liked the way the old site was laid out, use some like wayback machine or something, lol.) With this came a LOT of changes. I also tried to implement as MUCH of the website feedback (#website-feedback) as I possibly could with my abilites, so if something you wanted didn't make it, maybe a future site maintainer could get to it. (This is primarily related to the comments post. I tried but couldn't figure it out.) There were a few good ideas on top of comments, like role bases being listed under each role, or more pictures spread around (since mostly they're just for guides/info stuff) Have a good rest of your day, evening, night.<br>
 </font>

@@ -16,7 +16,7 @@ I'm a young developer who loves coding and gaming. I started coding when I was i
 
 I specialize in HTML, CSS, SQL, and JavaScript, but I'm learning Python and C++. I graduated from College with a degree in Computer Science, and I'm currently working as a freelance web developer. My main goal is to become a full-stack developer, focusing on Cybersecurity. and I'm working towards that goal.
 
-### <font color=#49e6ac>[Pyro](https://www.youtube.com/notpyro404) - Website Maintainer + Retired Moderator</font>
+### Pyro <font color=#49e6ac>- Prior Website Maintainer + Retired Moderator</font>
 
 I'm also mostly known online as NotPyro404. I was previously a Moderator in TEN's Discord Server, as well as the Website Maintainer for [T.E.N.](https://weareten.ca/) (Mainly TOHE Documentation). I've "coded" a bit for Town of Host: Enhanced, but not a lot.<br>
 I'm a terrible Content Creator & Minecraft Builder.<br>

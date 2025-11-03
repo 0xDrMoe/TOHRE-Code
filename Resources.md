@@ -32,7 +32,7 @@ Here are some Resources that may assist you with things relating to TOHE, such a
 - `{{CrewLightMod}}` - Displays the vision radius of a Crewmate.
 - `{{ImpostorLightMod}}` - Displays the vision radius of an Impostor.
 
-> From: The Enhanced Network + Compiling: NotPyro404
+> From: The Enhanced Network + Compiling: Pyro
 </details>
 <details>
 <summary><b><font color=gray>Text Formatting</font></b></summary>
@@ -48,7 +48,7 @@ Here are some Resources that may assist you with things relating to TOHE, such a
 - `<size=[size][%]>exampleText</size>` Sets the <font size=2em>Size</font> of the text/font. (Can type exact text/font sizes or use percentages.)
 - `\n` Creates a New Line. (Such as `<br>` or <kbd>Return</kbd>/<kbd>Enter</kbd> would.)
 
-> From: The Enhanced Network + Compiling: NotPyro404
+> From: The Enhanced Network + Compiling: Pyro
 </details>
 <details>
 <summary><b><font color=gray>Supported Rich Text Tags</font></b></summary>
@@ -213,7 +213,7 @@ Below is a list of Icons, as well as what they indicate.<br>
 </tr>
 </table>
 
-> From + Compiling: NotPyro404
+> From + Compiling: Pyro
 </details>
 <details>
 <summary><b><font color=gray>Quizmaster Questions</font></b></summary>
@@ -768,7 +768,7 @@ Bug (This Death Reason occurred awhile ago due to bugs, but has since been patch
 Tricky, Susceptible, & Illusionist will never give this death reason, but that should be obvious.<br>
 </details>
 
-> From: [Marg](https://docs.google.com/document/d/e/2PACX-1vTD5Qn3DchoADfPjxH1j11wfXzp3Is9GAMYnZYt5RePbM7OS_Iz4mNWgigQvN3rkFHh_QVfBguhV0rb/pub) + Compiling: NotPyro404
+> From: [Marg](https://docs.google.com/document/d/e/2PACX-1vTD5Qn3DchoADfPjxH1j11wfXzp3Is9GAMYnZYt5RePbM7OS_Iz4mNWgigQvN3rkFHh_QVfBguhV0rb/pub) + Compiling: Pyro
 </details>
 <details>
 <summary><b><font color=gray>Among Us Supported Languages</font></b></summary>
@@ -792,7 +792,7 @@ Below is a list of all languages supported by Vanilla Among Us.<br><br>
 - <font color=#FED141><b>Filipino</b></font> - Filipino<br>
 - <font color=#FF8200><b>Irish</b></font> - Irish<br>
 
-> From: Innersloth + Compiling: NotPyro404
+> From: Innersloth + Compiling: Pyro
 </details>
 <details>
 <summary><b><font color=gray>Among Us Color Options</font></b></summary>
@@ -880,5 +880,5 @@ Below is a list of all colors + their IDs supported by Vanilla Among Us.<br><br>
 </table>
 </b>
 
-> From: Innersloth + Compiling: NotPyro404
+> From: Innersloth + Compiling: Pyro
 </details>
