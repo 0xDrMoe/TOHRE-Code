@@ -2,7 +2,7 @@
 lang: en-US
 title: Evil Tracker
 prev: EvilHacker
-next: Greedy
+next: Exorcist
 ---
 
 # <font color=red>🕵️ <b>Evil Tracker</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

@@ -2,7 +2,7 @@
 lang: en-US
 title: Snitch
 prev: Psychic
-next: Spiritualist
+next: Socialite
 ---
 
 # <font color="#b8fb4f">🐀 <b>Snitch</b></font> <Badge text="Support" type="tip" vertical="middle"/>

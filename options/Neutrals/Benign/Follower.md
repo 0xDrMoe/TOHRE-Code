@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Follower
-prev: Amnesiac
+prev: Cupid
 next: Hater
 ---
 

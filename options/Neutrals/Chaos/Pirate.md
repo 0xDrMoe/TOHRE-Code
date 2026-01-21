@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Pirate
-prev: God
+prev: Inquisitor
 next: Revolutionist
 ---
 

@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Plaguebearer
-prev: Berserker
+prev: Lich
 next: SoulCollector
 ---
 

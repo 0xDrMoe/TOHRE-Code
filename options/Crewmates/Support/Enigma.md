@@ -2,7 +2,7 @@
 lang: en-US
 title: Enigma
 prev: Detective
-next: FortuneTeller
+next: Forensic
 ---
 
 # <font color="#676798">🧠 <b>Enigma</b></font> <Badge text="Support" type="tip" vertical="middle"/>

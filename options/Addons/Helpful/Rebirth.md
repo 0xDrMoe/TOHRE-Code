@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Rebirth
-prev: Radar
+prev: Rat
 next: Seer
 ---
 

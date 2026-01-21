@@ -10,7 +10,7 @@ contributors: false
 
 Presets are different saves of your settings. You can save your favorite settings as presets and load them later. You can also download presets shared by others. 
 
-For some User Submitted Presets, visit the [Presets](usc/Presets.html) Page.
+For some User Submitted Presets, visit the [Presets](/usc/Presets.html) Page.
 
 ## <font color=#f0b6d5>How do you use someone else's <font color=#ebd326>Preset</font>?</font>
 

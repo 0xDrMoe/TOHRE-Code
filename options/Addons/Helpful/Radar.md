@@ -2,7 +2,7 @@
 lang: en-US
 title: Radar
 prev: Overclocked
-next: Rebirth
+next: Rat
 ---
 
 # <font color=#d41e04>🧭 <b>Radar</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>

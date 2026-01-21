@@ -16,10 +16,16 @@ The Harvester can use the shapeshift menu to pick two players. These players wil
   * Set the cooldown Harvester has to wait until swap
 * Add-ons stolen every steal
   * Set how many addons are stolen every steal
-* Maximum Add-ons Coven can have
+* Maximum Add-ons <font color="#8a68f5">Coven</font> can have
   * Set how many addons Coven can have at once
 * Maximum Add-ons the Harvester can have
   * Set how many addons Harvester can have at once
+* Can swap recruiting addons
+  * <font color=green>ON</font>: Add-ons like Admired, Recruit, Enchanted can be swapped
+  * <font color=red>OFF</font>: Add-ons like Admired, Recruit, Enchanted cannot be swapped
+* Can steal recruiting addons
+  * <font color=green>ON</font>: Add-ons like Admired, Recruit, Enchanted can be stolen
+  * <font color=red>OFF</font>: Add-ons like Admired, Recruit, Enchanted cannot be stolen
 
 > Idea & Coding: [Marg](https://github.com/MargaretTheFool)
 

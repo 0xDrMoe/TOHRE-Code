@@ -2,7 +2,7 @@
 lang: en-US
 title: Amnesiac
 prev: /options/Settings/Neutrals.html
-next: Follower
+next: Cupid
 ---
 
 # <font color="#7FBFFF">🧠 <b>Amnesiac</b></font> <Badge text="Benign" type="tip" vertical="middle"/>

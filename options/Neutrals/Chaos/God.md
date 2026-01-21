@@ -2,7 +2,7 @@
 lang: en-US
 title: God
 prev: Collector
-next: Pirate
+next: Inquisitor
 ---
 
 # <font color=#f96464>🏺 <b>God</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>

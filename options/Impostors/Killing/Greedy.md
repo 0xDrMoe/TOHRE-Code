@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Greedy
-prev: EvilTracker
+prev: Exorcist
 next: Hangman
 ---
 

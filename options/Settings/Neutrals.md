@@ -17,17 +17,17 @@ next: /Roles.html
 
 <tr>
 <td><a href="#apocalypse" style="color:#cc0044"><b>🚨 Apocalypse</b></a></td>
-<td align="center">4</td>
+<td align="center">5</td>
 </tr>
 
 <tr>
 <td><a href="#benign" style="color:#046300"><b>🕊️ Benign</b></a></td>
-<td align="center">16</td>
+<td align="center">17</td>
 </tr>
 
 <tr>
 <td><a href="#chaos" style="color:#d4af37"><b>😈 Chaos</b></a></td>
-<td align="center">10</td>
+<td align="center">11</td>
 </tr>
 
 <tr>
@@ -60,15 +60,15 @@ next: /Roles.html
 
 ### <font color=#cc0044><b>Apocalypse</b></font>
 ---
-[Baker](/options/Neutrals/Apocalypse/Baker.html) | [Berserker](/options/Neutrals/Apocalypse/Berserker.html) | [Plaguebearer](/options/Neutrals/Apocalypse/Plaguebearer.html) | [Soul Collector](/options/Neutrals/Apocalypse/SoulCollector.html)
+[Baker](/options/Neutrals/Apocalypse/Baker.html) | [Berserker](/options/Neutrals/Apocalypse/Berserker.html) | [Lich](/options/Neutrals/Apocalypse/Lich.html) | [Plaguebearer](/options/Neutrals/Apocalypse/Plaguebearer.html) | [Soul Collector](/options/Neutrals/Apocalypse/SoulCollector.html)
 
 ### <font color=#046300><b>Benign</b></font>
 ---
-[Amnesiac](/options/Neutrals/Benign/Amnesiac.html) | [Follower](/options/Neutrals/Benign/Follower.html) | [Hater](/options/Neutrals/Benign/Hater.html) | [Lawyer](/options/Neutrals/Benign/Lawyer.html) | [Maverick](/options/Neutrals/Benign/Maverick.html) | [Opportunist](/options/Neutrals/Benign/Opportunist.html) | [Pixie](/options/Neutrals/Benign/Pixie.html) | [Provocateur](/options/Neutrals/Chaos/Provocateur.html) | [Pursuer](/options/Neutrals/Benign/Pursuer.html) | [Revenant](/options/Neutrals/Benign/Revenant.html) | [Romantic](/options/Neutrals/Benign/Romantic.html) | [Schrodingers Cat](/options/Neutrals/Benign/SchrodingersCat.html) | [Shaman](/options/Neutrals/Benign/Shaman.html) | [Taskinator](/options/Neutrals/Benign/Taskinator.html) | [Troller](/options/Neutrals/Benign/Troller.html)
+[Amnesiac](/options/Neutrals/Benign/Amnesiac.html) | [Cupid](/options/Neutrals/Benign/Cupid.html) |[Follower](/options/Neutrals/Benign/Follower.html) | [Hater](/options/Neutrals/Benign/Hater.html) | [Lawyer](/options/Neutrals/Benign/Lawyer.html) | [Maverick](/options/Neutrals/Benign/Maverick.html) | [Opportunist](/options/Neutrals/Benign/Opportunist.html) | [Pixie](/options/Neutrals/Benign/Pixie.html) | [Provocateur](/options/Neutrals/Chaos/Provocateur.html) | [Pursuer](/options/Neutrals/Benign/Pursuer.html) | [Revenant](/options/Neutrals/Benign/Revenant.html) | [Romantic](/options/Neutrals/Benign/Romantic.html) | [Schrodingers Cat](/options/Neutrals/Benign/SchrodingersCat.html) | [Shaman](/options/Neutrals/Benign/Shaman.html) | [Taskinator](/options/Neutrals/Benign/Taskinator.html) | [Troller](/options/Neutrals/Benign/Troller.html)
 
 ### <font color=#d4af37><b>Chaos</b></font>
 ---
-[Collector](/options/Neutrals/Chaos/Collector.html) | [God](/options/Neutrals/Chaos/God.html) | [Pirate](/options/Neutrals/Chaos/Pirate.html) | [Revolutionist](/options/Neutrals/Chaos/Revolutionist.html) | [Solsticer](/options/Neutrals/Chaos/Solsticer.html) | [Specter](/options/Neutrals/Chaos/Specter.html) | [Terrorist](/options/Neutrals/Chaos/Terrorist.html) | [Vector](/options/Neutrals/Chaos/Vector.html) | [Vulture](/options/Neutrals/Chaos/Vulture.html) | [Workaholic](/options/Neutrals/Chaos/Workaholic.html)
+[Collector](/options/Neutrals/Chaos/Collector.html) | [God](/options/Neutrals/Chaos/God.html) | [Inquisitor](/options/Neutrals/Chaos/Inquisitor.html) | [Pirate](/options/Neutrals/Chaos/Pirate.html) | [Revolutionist](/options/Neutrals/Chaos/Revolutionist.html) | [Solsticer](/options/Neutrals/Chaos/Solsticer.html) | [Specter](/options/Neutrals/Chaos/Specter.html) | [Terrorist](/options/Neutrals/Chaos/Terrorist.html) | [Vector](/options/Neutrals/Chaos/Vector.html) | [Vulture](/options/Neutrals/Chaos/Vulture.html) | [Workaholic](/options/Neutrals/Chaos/Workaholic.html)
 
 ### <font color=#912900><b>Evil</b></font>
 ---

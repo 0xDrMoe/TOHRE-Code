@@ -2,7 +2,7 @@
 lang: en-US
 title: Deputy
 prev: Coroner
-next: Detective
+next: Enigma
 ---
 
 # <font color="#df9026">👮‍♂️ <b>Deputy</b></font> <Badge text="Support" type="tip" vertical="middle"/>

@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Rainbow
-prev: Lovers
+prev: Narc
 next: Reach
 ---
 

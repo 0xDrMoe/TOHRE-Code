@@ -2,7 +2,7 @@
 lang: en-US
 title: Berserker
 prev: Baker
-next: Plaguebearer
+next: Lich
 ---
 
 # <font color=#cc0044>🪓 <b>Berserker</b></font> <Badge text="Apocalypse" type="tip" vertical="middle"/>

@@ -242,6 +242,9 @@ Standard is the base Gamemode in TOHE. In Standard, everybody receives a role be
   * Disable Vanilla Roles
     * <font color=green>ON</font>: the host can disable Vanilla Roles
     * <font color=red>OFF</font>: Vanilla Roles will be enabled
+  * Disable Hidden Roles
+    * <font color=green>ON</font>: Hidden roles will not spawn, even if they are above 0%
+    * <font color=red>OFF</font>: Hidden roles can spawn, based on the settings of their main role
   * Disable Task Win
     * <font color=green>ON</font>: Task wins will not be possible
     * <font color=red>OFF</font>: Task wins will be possible

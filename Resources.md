@@ -757,6 +757,11 @@ Shocker (Given to the players that we're in the room Shocker marked for Electroc
 Scavenger (Given to the players that the Pelican has used their kill button on)<br>
 </details>
 <details>
+<summary><b><font color=#996d6d>Exorcised</font></b></summary>
+
+Exorcist (Given to players who died because they talked during exorcism)<br>
+</details>
+<details>
 <summary><b><font color=#996d6d>Blasted Off</font></b></summary>
 
 Moon Dancer (Set chance to do this when Moon Dancer kills with Necronomicon)<br>
